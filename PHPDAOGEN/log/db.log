@@ -1,0 +1,2297 @@
+[28/12/2013 21:45:11] [tableAction] Database Connected.
+[28/12/2013 21:45:11] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:45:11] [tableAction] Statement Executed.
+[28/12/2013 21:45:11] [tableAction] Select Item: [course_id]
+[28/12/2013 21:45:11] [tableAction] Select Item: [int]
+[28/12/2013 21:45:11] [tableAction] Select Item: [course_field]
+[28/12/2013 21:45:11] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:11] [tableAction] Select Item: [course_year]
+[28/12/2013 21:45:11] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:11] [tableAction] Select Item: [course_url]
+[28/12/2013 21:45:11] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:11] [tableAction] Select Item: [user_create]
+[28/12/2013 21:45:11] [tableAction] Select Item: [int]
+[28/12/2013 21:45:11] [tableAction] Select Item: [user_update]
+[28/12/2013 21:45:11] [tableAction] Select Item: [int]
+[28/12/2013 21:45:11] [tableAction] Select Item: [time_create]
+[28/12/2013 21:45:11] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:45:11] [tableAction] Select Item: [time_update]
+[28/12/2013 21:45:11] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:45:11] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:45:11] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:45:11] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:45:11] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:45:11] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:45:11] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:45:11] [tableAction] 
+[28/12/2013 21:45:11] [tableAction] 
+[28/12/2013 21:45:11] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:45:51] [tableAction] Database Connected.
+[28/12/2013 21:45:51] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:45:51] [tableAction] Statement Executed.
+[28/12/2013 21:45:51] [tableAction] Select Item: [course_id]
+[28/12/2013 21:45:51] [tableAction] Select Item: [int]
+[28/12/2013 21:45:51] [tableAction] Select Item: [course_field]
+[28/12/2013 21:45:51] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:51] [tableAction] Select Item: [course_year]
+[28/12/2013 21:45:51] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:51] [tableAction] Select Item: [course_url]
+[28/12/2013 21:45:51] [tableAction] Select Item: [varchar]
+[28/12/2013 21:45:51] [tableAction] Select Item: [user_create]
+[28/12/2013 21:45:51] [tableAction] Select Item: [int]
+[28/12/2013 21:45:51] [tableAction] Select Item: [user_update]
+[28/12/2013 21:45:51] [tableAction] Select Item: [int]
+[28/12/2013 21:45:51] [tableAction] Select Item: [time_create]
+[28/12/2013 21:45:51] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:45:51] [tableAction] Select Item: [time_update]
+[28/12/2013 21:45:51] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:45:51] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:45:51] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:45:51] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:45:51] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:45:51] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:45:51] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:45:51] [tableAction] asdas
+[28/12/2013 21:45:51] [tableAction] asdas
+[28/12/2013 21:45:51] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:46:32] [tableAction] Database Connected.
+[28/12/2013 21:46:32] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:46:32] [tableAction] Statement Executed.
+[28/12/2013 21:46:32] [tableAction] Select Item: [course_id]
+[28/12/2013 21:46:32] [tableAction] Select Item: [int]
+[28/12/2013 21:46:32] [tableAction] Select Item: [course_field]
+[28/12/2013 21:46:32] [tableAction] Select Item: [varchar]
+[28/12/2013 21:46:32] [tableAction] Select Item: [course_year]
+[28/12/2013 21:46:32] [tableAction] Select Item: [varchar]
+[28/12/2013 21:46:32] [tableAction] Select Item: [course_url]
+[28/12/2013 21:46:32] [tableAction] Select Item: [varchar]
+[28/12/2013 21:46:32] [tableAction] Select Item: [user_create]
+[28/12/2013 21:46:32] [tableAction] Select Item: [int]
+[28/12/2013 21:46:32] [tableAction] Select Item: [user_update]
+[28/12/2013 21:46:32] [tableAction] Select Item: [int]
+[28/12/2013 21:46:32] [tableAction] Select Item: [time_create]
+[28/12/2013 21:46:32] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:46:32] [tableAction] Select Item: [time_update]
+[28/12/2013 21:46:32] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:46:32] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:46:32] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:46:32] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:46:32] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:46:32] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:46:32] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:46:32] [tableAction] course_idasdas
+[28/12/2013 21:46:32] [tableAction] course_fieldasdas
+[28/12/2013 21:46:32] [tableAction] course_yearasdas
+[28/12/2013 21:46:32] [tableAction] course_urlasdas
+[28/12/2013 21:46:32] [tableAction] user_createasdas
+[28/12/2013 21:46:32] [tableAction] user_updateasdas
+[28/12/2013 21:46:32] [tableAction] time_createasdas
+[28/12/2013 21:46:32] [tableAction] time_updateasdas
+[28/12/2013 21:46:32] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:48:30] [tableAction] Database Connected.
+[28/12/2013 21:48:30] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:48:30] [tableAction] Statement Executed.
+[28/12/2013 21:48:30] [tableAction] Select Item: [course_id]
+[28/12/2013 21:48:30] [tableAction] Select Item: [int]
+[28/12/2013 21:48:30] [tableAction] Select Item: [course_field]
+[28/12/2013 21:48:30] [tableAction] Select Item: [varchar]
+[28/12/2013 21:48:30] [tableAction] Select Item: [course_year]
+[28/12/2013 21:48:30] [tableAction] Select Item: [varchar]
+[28/12/2013 21:48:30] [tableAction] Select Item: [course_url]
+[28/12/2013 21:48:30] [tableAction] Select Item: [varchar]
+[28/12/2013 21:48:30] [tableAction] Select Item: [user_create]
+[28/12/2013 21:48:30] [tableAction] Select Item: [int]
+[28/12/2013 21:48:30] [tableAction] Select Item: [user_update]
+[28/12/2013 21:48:30] [tableAction] Select Item: [int]
+[28/12/2013 21:48:30] [tableAction] Select Item: [time_create]
+[28/12/2013 21:48:30] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:48:30] [tableAction] Select Item: [time_update]
+[28/12/2013 21:48:30] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:48:30] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:48:30] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:48:30] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:48:30] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:48:30] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:48:30] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:48:30] [tableAction] course_idasdas
+[28/12/2013 21:48:30] [tableAction] course_fieldasdas
+[28/12/2013 21:48:30] [tableAction] course_yearasdas
+[28/12/2013 21:48:30] [tableAction] course_urlasdas
+[28/12/2013 21:48:30] [tableAction] user_createasdas
+[28/12/2013 21:48:30] [tableAction] user_updateasdas
+[28/12/2013 21:48:30] [tableAction] time_createasdas
+[28/12/2013 21:48:30] [tableAction] time_updateasdas
+[28/12/2013 21:48:30] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:51:25] [tableAction] Database Connected.
+[28/12/2013 21:51:25] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:51:25] [tableAction] Statement Executed.
+[28/12/2013 21:51:25] [tableAction] Select Item: [course_id]
+[28/12/2013 21:51:25] [tableAction] Select Item: [int]
+[28/12/2013 21:51:25] [tableAction] Select Item: [course_field]
+[28/12/2013 21:51:25] [tableAction] Select Item: [varchar]
+[28/12/2013 21:51:25] [tableAction] Select Item: [course_year]
+[28/12/2013 21:51:25] [tableAction] Select Item: [varchar]
+[28/12/2013 21:51:25] [tableAction] Select Item: [course_url]
+[28/12/2013 21:51:25] [tableAction] Select Item: [varchar]
+[28/12/2013 21:51:25] [tableAction] Select Item: [user_create]
+[28/12/2013 21:51:25] [tableAction] Select Item: [int]
+[28/12/2013 21:51:25] [tableAction] Select Item: [user_update]
+[28/12/2013 21:51:25] [tableAction] Select Item: [int]
+[28/12/2013 21:51:25] [tableAction] Select Item: [time_create]
+[28/12/2013 21:51:25] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:51:25] [tableAction] Select Item: [time_update]
+[28/12/2013 21:51:25] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:51:25] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:51:25] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:51:25] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:51:25] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:51:25] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:51:25] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:51:25] [tableAction] course_idasdas
+[28/12/2013 21:51:25] [tableAction] course_fieldasdas
+[28/12/2013 21:51:25] [tableAction] course_yearasdas
+[28/12/2013 21:51:25] [tableAction] course_urlasdas
+[28/12/2013 21:51:25] [tableAction] user_createasdas
+[28/12/2013 21:51:25] [tableAction] user_updateasdas
+[28/12/2013 21:51:25] [tableAction] time_createasdas
+[28/12/2013 21:51:25] [tableAction] time_updateasdas
+[28/12/2013 21:51:25] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:52:00] [tableAction] Database Connected.
+[28/12/2013 21:52:00] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:52:00] [tableAction] Statement Executed.
+[28/12/2013 21:52:00] [tableAction] Select Item: [course_id]
+[28/12/2013 21:52:00] [tableAction] Select Item: [int]
+[28/12/2013 21:52:00] [tableAction] Select Item: [course_field]
+[28/12/2013 21:52:00] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:00] [tableAction] Select Item: [course_year]
+[28/12/2013 21:52:00] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:00] [tableAction] Select Item: [course_url]
+[28/12/2013 21:52:00] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:00] [tableAction] Select Item: [user_create]
+[28/12/2013 21:52:00] [tableAction] Select Item: [int]
+[28/12/2013 21:52:00] [tableAction] Select Item: [user_update]
+[28/12/2013 21:52:01] [tableAction] Select Item: [int]
+[28/12/2013 21:52:01] [tableAction] Select Item: [time_create]
+[28/12/2013 21:52:01] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:52:01] [tableAction] Select Item: [time_update]
+[28/12/2013 21:52:01] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:52:01] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:52:01] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:52:01] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:52:01] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:52:01] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:52:01] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:52:01] [tableAction] course_idasdas
+[28/12/2013 21:52:01] [tableAction] course_fieldasdas
+[28/12/2013 21:52:01] [tableAction] course_yearasdas
+[28/12/2013 21:52:01] [tableAction] course_urlasdas
+[28/12/2013 21:52:01] [tableAction] user_createasdas
+[28/12/2013 21:52:01] [tableAction] user_updateasdas
+[28/12/2013 21:52:01] [tableAction] time_createasdas
+[28/12/2013 21:52:01] [tableAction] time_updateasdas
+[28/12/2013 21:52:01] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:52:38] [tableAction] Database Connected.
+[28/12/2013 21:52:38] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:52:38] [tableAction] Statement Executed.
+[28/12/2013 21:52:38] [tableAction] Select Item: [course_id]
+[28/12/2013 21:52:38] [tableAction] Select Item: [int]
+[28/12/2013 21:52:38] [tableAction] Select Item: [course_field]
+[28/12/2013 21:52:38] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:38] [tableAction] Select Item: [course_year]
+[28/12/2013 21:52:38] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:38] [tableAction] Select Item: [course_url]
+[28/12/2013 21:52:38] [tableAction] Select Item: [varchar]
+[28/12/2013 21:52:38] [tableAction] Select Item: [user_create]
+[28/12/2013 21:52:38] [tableAction] Select Item: [int]
+[28/12/2013 21:52:38] [tableAction] Select Item: [user_update]
+[28/12/2013 21:52:38] [tableAction] Select Item: [int]
+[28/12/2013 21:52:38] [tableAction] Select Item: [time_create]
+[28/12/2013 21:52:38] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:52:38] [tableAction] Select Item: [time_update]
+[28/12/2013 21:52:38] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:52:38] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:52:38] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:52:38] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:52:38] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:52:38] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:52:38] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:52:38] [tableAction] course_idasdas
+[28/12/2013 21:52:38] [tableAction] course_fieldasdas
+[28/12/2013 21:52:38] [tableAction] course_yearasdas
+[28/12/2013 21:52:38] [tableAction] course_urlasdas
+[28/12/2013 21:52:38] [tableAction] user_createasdas
+[28/12/2013 21:52:38] [tableAction] user_updateasdas
+[28/12/2013 21:52:38] [tableAction] time_createasdas
+[28/12/2013 21:52:38] [tableAction] time_updateasdas
+[28/12/2013 21:52:38] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:54:18] [tableAction] Database Connected.
+[28/12/2013 21:54:18] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:54:18] [tableAction] Statement Executed.
+[28/12/2013 21:54:18] [tableAction] Select Item: [course_id]
+[28/12/2013 21:54:18] [tableAction] Select Item: [int]
+[28/12/2013 21:54:18] [tableAction] Select Item: [course_field]
+[28/12/2013 21:54:18] [tableAction] Select Item: [varchar]
+[28/12/2013 21:54:18] [tableAction] Select Item: [course_year]
+[28/12/2013 21:54:18] [tableAction] Select Item: [varchar]
+[28/12/2013 21:54:18] [tableAction] Select Item: [course_url]
+[28/12/2013 21:54:18] [tableAction] Select Item: [varchar]
+[28/12/2013 21:54:18] [tableAction] Select Item: [user_create]
+[28/12/2013 21:54:18] [tableAction] Select Item: [int]
+[28/12/2013 21:54:18] [tableAction] Select Item: [user_update]
+[28/12/2013 21:54:18] [tableAction] Select Item: [int]
+[28/12/2013 21:54:18] [tableAction] Select Item: [time_create]
+[28/12/2013 21:54:18] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:54:18] [tableAction] Select Item: [time_update]
+[28/12/2013 21:54:18] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:54:18] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:54:18] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:54:18] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:54:18] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:54:18] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:54:18] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:54:18] [tableAction] course_idasdas
+[28/12/2013 21:54:18] [tableAction] course_fieldasdas
+[28/12/2013 21:54:18] [tableAction] course_yearasdas
+[28/12/2013 21:54:18] [tableAction] course_urlasdas
+[28/12/2013 21:54:18] [tableAction] user_createasdas
+[28/12/2013 21:54:18] [tableAction] user_updateasdas
+[28/12/2013 21:54:18] [tableAction] time_createasdas
+[28/12/2013 21:54:18] [tableAction] time_updateasdas
+[28/12/2013 21:54:18] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:55:15] [tableAction] Database Connected.
+[28/12/2013 21:55:15] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:55:15] [tableAction] Statement Executed.
+[28/12/2013 21:55:15] [tableAction] Select Item: [course_id]
+[28/12/2013 21:55:15] [tableAction] Select Item: [int]
+[28/12/2013 21:55:15] [tableAction] Select Item: [course_field]
+[28/12/2013 21:55:15] [tableAction] Select Item: [varchar]
+[28/12/2013 21:55:15] [tableAction] Select Item: [course_year]
+[28/12/2013 21:55:15] [tableAction] Select Item: [varchar]
+[28/12/2013 21:55:15] [tableAction] Select Item: [course_url]
+[28/12/2013 21:55:15] [tableAction] Select Item: [varchar]
+[28/12/2013 21:55:15] [tableAction] Select Item: [user_create]
+[28/12/2013 21:55:15] [tableAction] Select Item: [int]
+[28/12/2013 21:55:15] [tableAction] Select Item: [user_update]
+[28/12/2013 21:55:15] [tableAction] Select Item: [int]
+[28/12/2013 21:55:15] [tableAction] Select Item: [time_create]
+[28/12/2013 21:55:15] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:55:15] [tableAction] Select Item: [time_update]
+[28/12/2013 21:55:15] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:55:15] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:55:15] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:55:15] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:55:15] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:55:15] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:55:15] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:55:15] [tableAction] course_idasdas
+[28/12/2013 21:55:15] [tableAction] course_fieldasdas
+[28/12/2013 21:55:15] [tableAction] course_yearasdas
+[28/12/2013 21:55:15] [tableAction] course_urlasdas
+[28/12/2013 21:55:15] [tableAction] user_createasdas
+[28/12/2013 21:55:15] [tableAction] user_updateasdas
+[28/12/2013 21:55:15] [tableAction] time_createasdas
+[28/12/2013 21:55:15] [tableAction] time_updateasdas
+[28/12/2013 21:55:15] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:57:29] [tableAction] Database Connected.
+[28/12/2013 21:57:29] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:57:29] [tableAction] Statement Executed.
+[28/12/2013 21:57:29] [tableAction] Select Item: [course_id]
+[28/12/2013 21:57:29] [tableAction] Select Item: [int]
+[28/12/2013 21:57:29] [tableAction] Select Item: [course_field]
+[28/12/2013 21:57:29] [tableAction] Select Item: [varchar]
+[28/12/2013 21:57:29] [tableAction] Select Item: [course_year]
+[28/12/2013 21:57:29] [tableAction] Select Item: [varchar]
+[28/12/2013 21:57:29] [tableAction] Select Item: [course_url]
+[28/12/2013 21:57:29] [tableAction] Select Item: [varchar]
+[28/12/2013 21:57:29] [tableAction] Select Item: [user_create]
+[28/12/2013 21:57:29] [tableAction] Select Item: [int]
+[28/12/2013 21:57:29] [tableAction] Select Item: [user_update]
+[28/12/2013 21:57:29] [tableAction] Select Item: [int]
+[28/12/2013 21:57:29] [tableAction] Select Item: [time_create]
+[28/12/2013 21:57:29] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:57:29] [tableAction] Select Item: [time_update]
+[28/12/2013 21:57:29] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:57:29] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:57:29] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:57:29] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:57:29] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:57:29] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:57:29] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:57:29] [tableAction] course_idasdas
+[28/12/2013 21:57:29] [tableAction] course_fieldasdas
+[28/12/2013 21:57:29] [tableAction] course_yearasdas
+[28/12/2013 21:57:29] [tableAction] course_urlasdas
+[28/12/2013 21:57:29] [tableAction] user_createasdas
+[28/12/2013 21:57:29] [tableAction] user_updateasdas
+[28/12/2013 21:57:29] [tableAction] time_createasdas
+[28/12/2013 21:57:29] [tableAction] time_updateasdas
+[28/12/2013 21:57:29] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 21:58:39] [tableAction] Database Connected.
+[28/12/2013 21:58:39] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 21:58:39] [tableAction] Statement Executed.
+[28/12/2013 21:58:39] [tableAction] Select Item: [course_id]
+[28/12/2013 21:58:39] [tableAction] Select Item: [int]
+[28/12/2013 21:58:39] [tableAction] Select Item: [course_field]
+[28/12/2013 21:58:39] [tableAction] Select Item: [varchar]
+[28/12/2013 21:58:39] [tableAction] Select Item: [course_year]
+[28/12/2013 21:58:39] [tableAction] Select Item: [varchar]
+[28/12/2013 21:58:39] [tableAction] Select Item: [course_url]
+[28/12/2013 21:58:39] [tableAction] Select Item: [varchar]
+[28/12/2013 21:58:39] [tableAction] Select Item: [user_create]
+[28/12/2013 21:58:39] [tableAction] Select Item: [int]
+[28/12/2013 21:58:39] [tableAction] Select Item: [user_update]
+[28/12/2013 21:58:39] [tableAction] Select Item: [int]
+[28/12/2013 21:58:39] [tableAction] Select Item: [time_create]
+[28/12/2013 21:58:39] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:58:39] [tableAction] Select Item: [time_update]
+[28/12/2013 21:58:39] [tableAction] Select Item: [timestamp]
+[28/12/2013 21:58:39] [tableAction] Get Table Columns Successful.
+[28/12/2013 21:58:39] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 21:58:39] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 21:58:39] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 21:58:39] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 21:58:39] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 21:58:39] [tableAction] course_idasdas
+[28/12/2013 21:58:39] [tableAction] course_fieldasdas
+[28/12/2013 21:58:39] [tableAction] course_yearasdas
+[28/12/2013 21:58:39] [tableAction] course_urlasdas
+[28/12/2013 21:58:39] [tableAction] user_createasdas
+[28/12/2013 21:58:39] [tableAction] user_updateasdas
+[28/12/2013 21:58:39] [tableAction] time_createasdas
+[28/12/2013 21:58:39] [tableAction] time_updateasdas
+[28/12/2013 21:58:39] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 22:04:57] [tableAction] Database Connected.
+[28/12/2013 22:04:57] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 22:04:57] [tableAction] Statement Executed.
+[28/12/2013 22:04:57] [tableAction] Select Item: [course_id]
+[28/12/2013 22:04:57] [tableAction] Select Item: [int]
+[28/12/2013 22:04:57] [tableAction] Select Item: [course_field]
+[28/12/2013 22:04:57] [tableAction] Select Item: [varchar]
+[28/12/2013 22:04:57] [tableAction] Select Item: [course_year]
+[28/12/2013 22:04:57] [tableAction] Select Item: [varchar]
+[28/12/2013 22:04:57] [tableAction] Select Item: [course_url]
+[28/12/2013 22:04:57] [tableAction] Select Item: [varchar]
+[28/12/2013 22:04:57] [tableAction] Select Item: [user_create]
+[28/12/2013 22:04:57] [tableAction] Select Item: [int]
+[28/12/2013 22:04:57] [tableAction] Select Item: [user_update]
+[28/12/2013 22:04:57] [tableAction] Select Item: [int]
+[28/12/2013 22:04:57] [tableAction] Select Item: [time_create]
+[28/12/2013 22:04:57] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:04:57] [tableAction] Select Item: [time_update]
+[28/12/2013 22:04:57] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:04:57] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:04:57] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 22:04:57] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 22:04:57] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 22:04:57] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 22:04:57] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 22:04:57] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 22:07:42] [tableAction] Database Connected.
+[28/12/2013 22:07:42] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 22:07:42] [tableAction] Statement Executed.
+[28/12/2013 22:07:42] [tableAction] Select Item: [course_id]
+[28/12/2013 22:07:42] [tableAction] Select Item: [int]
+[28/12/2013 22:07:42] [tableAction] Select Item: [course_field]
+[28/12/2013 22:07:42] [tableAction] Select Item: [varchar]
+[28/12/2013 22:07:42] [tableAction] Select Item: [course_year]
+[28/12/2013 22:07:42] [tableAction] Select Item: [varchar]
+[28/12/2013 22:07:42] [tableAction] Select Item: [course_url]
+[28/12/2013 22:07:42] [tableAction] Select Item: [varchar]
+[28/12/2013 22:07:42] [tableAction] Select Item: [user_create]
+[28/12/2013 22:07:42] [tableAction] Select Item: [int]
+[28/12/2013 22:07:42] [tableAction] Select Item: [user_update]
+[28/12/2013 22:07:42] [tableAction] Select Item: [int]
+[28/12/2013 22:07:42] [tableAction] Select Item: [time_create]
+[28/12/2013 22:07:42] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:07:42] [tableAction] Select Item: [time_update]
+[28/12/2013 22:07:42] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:07:42] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:07:42] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 22:07:42] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 22:07:42] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 22:07:42] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 22:07:43] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 22:07:43] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 22:08:18] [tableAction] Database Connected.
+[28/12/2013 22:08:18] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[28/12/2013 22:08:18] [tableAction] Statement Executed.
+[28/12/2013 22:08:18] [tableAction] Select Item: [user_id]
+[28/12/2013 22:08:18] [tableAction] Select Item: [int]
+[28/12/2013 22:08:18] [tableAction] Select Item: [username]
+[28/12/2013 22:08:18] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:18] [tableAction] Select Item: [password]
+[28/12/2013 22:08:18] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:18] [tableAction] Select Item: [time_create]
+[28/12/2013 22:08:18] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:08:18] [tableAction] Select Item: [time_update]
+[28/12/2013 22:08:18] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:08:18] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:08:18] [tableAction] gen/src/DAO/UserDAO.class.php
+[28/12/2013 22:08:18] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[28/12/2013 22:08:18] [tableAction] gen/src/vo/User.class.php
+[28/12/2013 22:08:18] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[28/12/2013 22:08:18] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[28/12/2013 22:08:18] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[28/12/2013 22:08:24] [tableAction] Database Connected.
+[28/12/2013 22:08:24] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[28/12/2013 22:08:24] [tableAction] Statement Executed.
+[28/12/2013 22:08:24] [tableAction] Select Item: [role_id]
+[28/12/2013 22:08:24] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:24] [tableAction] Select Item: [role_name]
+[28/12/2013 22:08:24] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:24] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:08:24] [tableAction] gen/src/DAO/RoleDAO.class.php
+[28/12/2013 22:08:24] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[28/12/2013 22:08:24] [tableAction] gen/src/vo/Role.class.php
+[28/12/2013 22:08:24] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[28/12/2013 22:08:24] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[28/12/2013 22:08:24] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[28/12/2013 22:08:37] [tableAction] Database Connected.
+[28/12/2013 22:08:37] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[28/12/2013 22:08:37] [tableAction] Statement Executed.
+[28/12/2013 22:08:37] [tableAction] Select Item: [username]
+[28/12/2013 22:08:37] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:37] [tableAction] Select Item: [role_id]
+[28/12/2013 22:08:37] [tableAction] Select Item: [varchar]
+[28/12/2013 22:08:37] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:08:37] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[28/12/2013 22:08:37] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[28/12/2013 22:08:37] [tableAction] gen/src/vo/UserRole.class.php
+[28/12/2013 22:08:37] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[28/12/2013 22:08:37] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[28/12/2013 22:08:37] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[28/12/2013 22:25:39] [tableAction] Database Connected.
+[28/12/2013 22:25:39] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[28/12/2013 22:25:39] [tableAction] Statement Executed.
+[28/12/2013 22:25:39] [tableAction] Select Item: [course_id]
+[28/12/2013 22:25:39] [tableAction] Select Item: [int]
+[28/12/2013 22:25:39] [tableAction] Select Item: [course_field]
+[28/12/2013 22:25:39] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:39] [tableAction] Select Item: [course_year]
+[28/12/2013 22:25:39] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:39] [tableAction] Select Item: [course_url]
+[28/12/2013 22:25:39] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:39] [tableAction] Select Item: [user_create]
+[28/12/2013 22:25:39] [tableAction] Select Item: [int]
+[28/12/2013 22:25:39] [tableAction] Select Item: [user_update]
+[28/12/2013 22:25:39] [tableAction] Select Item: [int]
+[28/12/2013 22:25:39] [tableAction] Select Item: [time_create]
+[28/12/2013 22:25:39] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:25:39] [tableAction] Select Item: [time_update]
+[28/12/2013 22:25:39] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:25:39] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:25:39] [tableAction] gen/src/DAO/CourseDAO.class.php
+[28/12/2013 22:25:39] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[28/12/2013 22:25:39] [tableAction] gen/src/vo/Course.class.php
+[28/12/2013 22:25:39] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[28/12/2013 22:25:39] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[28/12/2013 22:25:39] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[28/12/2013 22:25:43] [tableAction] Database Connected.
+[28/12/2013 22:25:43] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[28/12/2013 22:25:43] [tableAction] Statement Executed.
+[28/12/2013 22:25:43] [tableAction] Select Item: [user_id]
+[28/12/2013 22:25:43] [tableAction] Select Item: [int]
+[28/12/2013 22:25:43] [tableAction] Select Item: [username]
+[28/12/2013 22:25:43] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:43] [tableAction] Select Item: [password]
+[28/12/2013 22:25:43] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:43] [tableAction] Select Item: [time_create]
+[28/12/2013 22:25:43] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:25:43] [tableAction] Select Item: [time_update]
+[28/12/2013 22:25:43] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:25:43] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:25:43] [tableAction] gen/src/DAO/UserDAO.class.php
+[28/12/2013 22:25:43] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[28/12/2013 22:25:43] [tableAction] gen/src/vo/User.class.php
+[28/12/2013 22:25:43] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[28/12/2013 22:25:43] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[28/12/2013 22:25:43] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[28/12/2013 22:25:48] [tableAction] Database Connected.
+[28/12/2013 22:25:48] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[28/12/2013 22:25:48] [tableAction] Statement Executed.
+[28/12/2013 22:25:48] [tableAction] Select Item: [role_id]
+[28/12/2013 22:25:48] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:48] [tableAction] Select Item: [role_name]
+[28/12/2013 22:25:48] [tableAction] Select Item: [varchar]
+[28/12/2013 22:25:48] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:25:48] [tableAction] gen/src/DAO/RoleDAO.class.php
+[28/12/2013 22:25:48] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[28/12/2013 22:25:48] [tableAction] gen/src/vo/Role.class.php
+[28/12/2013 22:25:48] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[28/12/2013 22:25:48] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[28/12/2013 22:25:48] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[28/12/2013 22:26:01] [tableAction] Database Connected.
+[28/12/2013 22:26:01] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[28/12/2013 22:26:01] [tableAction] Statement Executed.
+[28/12/2013 22:26:01] [tableAction] Select Item: [username]
+[28/12/2013 22:26:01] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:01] [tableAction] Select Item: [role_id]
+[28/12/2013 22:26:01] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:01] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:26:01] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[28/12/2013 22:26:01] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[28/12/2013 22:26:01] [tableAction] gen/src/vo/UserRole.class.php
+[28/12/2013 22:26:01] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[28/12/2013 22:26:01] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[28/12/2013 22:26:01] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[28/12/2013 22:26:07] [tableAction] Database Connected.
+[28/12/2013 22:26:07] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[28/12/2013 22:26:07] [tableAction] Statement Executed.
+[28/12/2013 22:26:07] [tableAction] Select Item: [role_id]
+[28/12/2013 22:26:07] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:07] [tableAction] Select Item: [role_name]
+[28/12/2013 22:26:07] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:07] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:26:07] [tableAction] gen/src/DAO/RoleDAO.class.php
+[28/12/2013 22:26:07] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[28/12/2013 22:26:07] [tableAction] gen/src/vo/Role.class.php
+[28/12/2013 22:26:07] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[28/12/2013 22:26:07] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[28/12/2013 22:26:07] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[28/12/2013 22:26:13] [tableAction] Database Connected.
+[28/12/2013 22:26:13] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[28/12/2013 22:26:13] [tableAction] Statement Executed.
+[28/12/2013 22:26:13] [tableAction] Select Item: [user_id]
+[28/12/2013 22:26:13] [tableAction] Select Item: [int]
+[28/12/2013 22:26:13] [tableAction] Select Item: [username]
+[28/12/2013 22:26:13] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:13] [tableAction] Select Item: [password]
+[28/12/2013 22:26:13] [tableAction] Select Item: [varchar]
+[28/12/2013 22:26:13] [tableAction] Select Item: [time_create]
+[28/12/2013 22:26:13] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:26:13] [tableAction] Select Item: [time_update]
+[28/12/2013 22:26:13] [tableAction] Select Item: [timestamp]
+[28/12/2013 22:26:13] [tableAction] Get Table Columns Successful.
+[28/12/2013 22:26:13] [tableAction] gen/src/DAO/UserDAO.class.php
+[28/12/2013 22:26:13] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[28/12/2013 22:26:13] [tableAction] gen/src/vo/User.class.php
+[28/12/2013 22:26:13] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[28/12/2013 22:26:13] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[28/12/2013 22:26:13] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:08:39] [tableAction] Database Connected.
+[29/12/2013 00:08:39] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:08:39] [tableAction] Statement Executed.
+[29/12/2013 00:08:39] [tableAction] Select Item: [course_id]
+[29/12/2013 00:08:39] [tableAction] Select Item: [int]
+[29/12/2013 00:08:39] [tableAction] Select Item: [course_field]
+[29/12/2013 00:08:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:08:39] [tableAction] Select Item: [course_year]
+[29/12/2013 00:08:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:08:39] [tableAction] Select Item: [course_url]
+[29/12/2013 00:08:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:08:39] [tableAction] Select Item: [user_create]
+[29/12/2013 00:08:39] [tableAction] Select Item: [int]
+[29/12/2013 00:08:39] [tableAction] Select Item: [user_update]
+[29/12/2013 00:08:39] [tableAction] Select Item: [int]
+[29/12/2013 00:08:39] [tableAction] Select Item: [time_create]
+[29/12/2013 00:08:39] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:08:39] [tableAction] Select Item: [time_update]
+[29/12/2013 00:08:39] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:08:39] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:08:39] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:08:39] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:08:39] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:08:39] [tableAction] Fail to create file.
+[29/12/2013 00:08:39] [tableAction] Fail to create file.
+[29/12/2013 00:08:39] [tableAction] Fail to create file.
+[29/12/2013 00:11:22] [tableAction] Database Connected.
+[29/12/2013 00:11:22] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:11:22] [tableAction] Statement Executed.
+[29/12/2013 00:11:22] [tableAction] Select Item: [course_id]
+[29/12/2013 00:11:22] [tableAction] Select Item: [int]
+[29/12/2013 00:11:22] [tableAction] Select Item: [course_field]
+[29/12/2013 00:11:22] [tableAction] Select Item: [varchar]
+[29/12/2013 00:11:22] [tableAction] Select Item: [course_year]
+[29/12/2013 00:11:22] [tableAction] Select Item: [varchar]
+[29/12/2013 00:11:22] [tableAction] Select Item: [course_url]
+[29/12/2013 00:11:22] [tableAction] Select Item: [varchar]
+[29/12/2013 00:11:22] [tableAction] Select Item: [user_create]
+[29/12/2013 00:11:22] [tableAction] Select Item: [int]
+[29/12/2013 00:11:22] [tableAction] Select Item: [user_update]
+[29/12/2013 00:11:22] [tableAction] Select Item: [int]
+[29/12/2013 00:11:22] [tableAction] Select Item: [time_create]
+[29/12/2013 00:11:22] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:11:22] [tableAction] Select Item: [time_update]
+[29/12/2013 00:11:22] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:11:22] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:11:22] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:11:22] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:11:22] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:11:22] [tableAction] Fail to create file.
+[29/12/2013 00:11:22] [tableAction] Fail to create file.
+[29/12/2013 00:11:22] [tableAction] Fail to create file.
+[29/12/2013 00:12:28] [tableAction] Database Connected.
+[29/12/2013 00:12:28] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = ''
+[29/12/2013 00:12:28] [tableAction] Execute Fail: () 
+[29/12/2013 00:12:28] [tableAction] Fail to get Table Columns.
+[29/12/2013 00:13:11] [tableAction] Database Connected.
+[29/12/2013 00:13:11] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:13:11] [tableAction] Statement Executed.
+[29/12/2013 00:13:11] [tableAction] Select Item: [user_id]
+[29/12/2013 00:13:11] [tableAction] Select Item: [int]
+[29/12/2013 00:13:11] [tableAction] Select Item: [username]
+[29/12/2013 00:13:11] [tableAction] Select Item: [varchar]
+[29/12/2013 00:13:11] [tableAction] Select Item: [password]
+[29/12/2013 00:13:11] [tableAction] Select Item: [varchar]
+[29/12/2013 00:13:11] [tableAction] Select Item: [time_create]
+[29/12/2013 00:13:11] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:13:11] [tableAction] Select Item: [time_update]
+[29/12/2013 00:13:11] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:13:11] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:13:11] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:13:11] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:13:11] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:13:11] [tableAction] Fail to create file.
+[29/12/2013 00:13:11] [tableAction] Fail to create file.
+[29/12/2013 00:13:11] [tableAction] Fail to create file.
+[29/12/2013 00:15:00] [tableAction] Database Connected.
+[29/12/2013 00:15:00] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:15:00] [tableAction] Statement Executed.
+[29/12/2013 00:15:00] [tableAction] Select Item: [course_id]
+[29/12/2013 00:15:00] [tableAction] Select Item: [int]
+[29/12/2013 00:15:00] [tableAction] Select Item: [course_field]
+[29/12/2013 00:15:00] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:00] [tableAction] Select Item: [course_year]
+[29/12/2013 00:15:00] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:00] [tableAction] Select Item: [course_url]
+[29/12/2013 00:15:00] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:00] [tableAction] Select Item: [user_create]
+[29/12/2013 00:15:00] [tableAction] Select Item: [int]
+[29/12/2013 00:15:00] [tableAction] Select Item: [user_update]
+[29/12/2013 00:15:00] [tableAction] Select Item: [int]
+[29/12/2013 00:15:00] [tableAction] Select Item: [time_create]
+[29/12/2013 00:15:00] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:15:00] [tableAction] Select Item: [time_update]
+[29/12/2013 00:15:00] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:15:00] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:15:00] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:15:00] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:15:00] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:15:00] [tableAction] Fail to create file.
+[29/12/2013 00:15:00] [tableAction] Fail to create file.
+[29/12/2013 00:15:00] [tableAction] Fail to create file.
+[29/12/2013 00:15:29] [tableAction] Database Connected.
+[29/12/2013 00:15:29] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:15:29] [tableAction] Statement Executed.
+[29/12/2013 00:15:29] [tableAction] Select Item: [course_id]
+[29/12/2013 00:15:29] [tableAction] Select Item: [int]
+[29/12/2013 00:15:29] [tableAction] Select Item: [course_field]
+[29/12/2013 00:15:29] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:29] [tableAction] Select Item: [course_year]
+[29/12/2013 00:15:29] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:29] [tableAction] Select Item: [course_url]
+[29/12/2013 00:15:29] [tableAction] Select Item: [varchar]
+[29/12/2013 00:15:29] [tableAction] Select Item: [user_create]
+[29/12/2013 00:15:29] [tableAction] Select Item: [int]
+[29/12/2013 00:15:29] [tableAction] Select Item: [user_update]
+[29/12/2013 00:15:29] [tableAction] Select Item: [int]
+[29/12/2013 00:15:29] [tableAction] Select Item: [time_create]
+[29/12/2013 00:15:29] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:15:29] [tableAction] Select Item: [time_update]
+[29/12/2013 00:15:29] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:15:29] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:15:29] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:15:29] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:15:29] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:15:29] [tableAction] Fail to create file.
+[29/12/2013 00:15:29] [tableAction] Fail to create file.
+[29/12/2013 00:15:29] [tableAction] Fail to create file.
+[29/12/2013 00:16:04] [tableAction] Database Connected.
+[29/12/2013 00:16:04] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:16:04] [tableAction] Statement Executed.
+[29/12/2013 00:16:04] [tableAction] Select Item: [course_id]
+[29/12/2013 00:16:04] [tableAction] Select Item: [int]
+[29/12/2013 00:16:04] [tableAction] Select Item: [course_field]
+[29/12/2013 00:16:04] [tableAction] Select Item: [varchar]
+[29/12/2013 00:16:04] [tableAction] Select Item: [course_year]
+[29/12/2013 00:16:04] [tableAction] Select Item: [varchar]
+[29/12/2013 00:16:04] [tableAction] Select Item: [course_url]
+[29/12/2013 00:16:04] [tableAction] Select Item: [varchar]
+[29/12/2013 00:16:04] [tableAction] Select Item: [user_create]
+[29/12/2013 00:16:04] [tableAction] Select Item: [int]
+[29/12/2013 00:16:04] [tableAction] Select Item: [user_update]
+[29/12/2013 00:16:04] [tableAction] Select Item: [int]
+[29/12/2013 00:16:04] [tableAction] Select Item: [time_create]
+[29/12/2013 00:16:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:16:04] [tableAction] Select Item: [time_update]
+[29/12/2013 00:16:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:16:04] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:16:04] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:16:04] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:16:04] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:16:04] [tableAction] Fail to create file.
+[29/12/2013 00:16:04] [tableAction] Fail to create file.
+[29/12/2013 00:16:04] [tableAction] Fail to create file.
+[29/12/2013 00:17:34] [tableAction] Database Connected.
+[29/12/2013 00:17:34] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:17:34] [tableAction] Statement Executed.
+[29/12/2013 00:17:34] [tableAction] Select Item: [course_id]
+[29/12/2013 00:17:34] [tableAction] Select Item: [int]
+[29/12/2013 00:17:34] [tableAction] Select Item: [course_field]
+[29/12/2013 00:17:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:17:34] [tableAction] Select Item: [course_year]
+[29/12/2013 00:17:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:17:34] [tableAction] Select Item: [course_url]
+[29/12/2013 00:17:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:17:34] [tableAction] Select Item: [user_create]
+[29/12/2013 00:17:34] [tableAction] Select Item: [int]
+[29/12/2013 00:17:34] [tableAction] Select Item: [user_update]
+[29/12/2013 00:17:34] [tableAction] Select Item: [int]
+[29/12/2013 00:17:34] [tableAction] Select Item: [time_create]
+[29/12/2013 00:17:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:17:34] [tableAction] Select Item: [time_update]
+[29/12/2013 00:17:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:17:34] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:17:34] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:17:34] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:17:34] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:17:34] [tableAction] Fail to create file.
+[29/12/2013 00:17:34] [tableAction] Fail to create file.
+[29/12/2013 00:17:34] [tableAction] Fail to create file.
+[29/12/2013 00:18:10] [tableAction] Database Connected.
+[29/12/2013 00:18:10] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:18:10] [tableAction] Statement Executed.
+[29/12/2013 00:18:10] [tableAction] Select Item: [course_id]
+[29/12/2013 00:18:10] [tableAction] Select Item: [int]
+[29/12/2013 00:18:10] [tableAction] Select Item: [course_field]
+[29/12/2013 00:18:10] [tableAction] Select Item: [varchar]
+[29/12/2013 00:18:10] [tableAction] Select Item: [course_year]
+[29/12/2013 00:18:10] [tableAction] Select Item: [varchar]
+[29/12/2013 00:18:10] [tableAction] Select Item: [course_url]
+[29/12/2013 00:18:10] [tableAction] Select Item: [varchar]
+[29/12/2013 00:18:10] [tableAction] Select Item: [user_create]
+[29/12/2013 00:18:10] [tableAction] Select Item: [int]
+[29/12/2013 00:18:10] [tableAction] Select Item: [user_update]
+[29/12/2013 00:18:10] [tableAction] Select Item: [int]
+[29/12/2013 00:18:10] [tableAction] Select Item: [time_create]
+[29/12/2013 00:18:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:18:10] [tableAction] Select Item: [time_update]
+[29/12/2013 00:18:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:18:10] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:18:10] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:18:10] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:18:10] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:18:10] [tableAction] Fail to create file.
+[29/12/2013 00:18:10] [tableAction] Fail to create file.
+[29/12/2013 00:18:10] [tableAction] Fail to create file.
+[29/12/2013 00:21:14] [tableAction] Database Connected.
+[29/12/2013 00:21:14] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:21:14] [tableAction] Statement Executed.
+[29/12/2013 00:21:14] [tableAction] Select Item: [course_id]
+[29/12/2013 00:21:14] [tableAction] Select Item: [int]
+[29/12/2013 00:21:14] [tableAction] Select Item: [course_field]
+[29/12/2013 00:21:14] [tableAction] Select Item: [varchar]
+[29/12/2013 00:21:14] [tableAction] Select Item: [course_year]
+[29/12/2013 00:21:14] [tableAction] Select Item: [varchar]
+[29/12/2013 00:21:14] [tableAction] Select Item: [course_url]
+[29/12/2013 00:21:14] [tableAction] Select Item: [varchar]
+[29/12/2013 00:21:14] [tableAction] Select Item: [user_create]
+[29/12/2013 00:21:14] [tableAction] Select Item: [int]
+[29/12/2013 00:21:14] [tableAction] Select Item: [user_update]
+[29/12/2013 00:21:14] [tableAction] Select Item: [int]
+[29/12/2013 00:21:14] [tableAction] Select Item: [time_create]
+[29/12/2013 00:21:14] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:21:14] [tableAction] Select Item: [time_update]
+[29/12/2013 00:21:14] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:21:14] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:21:14] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:21:14] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:21:14] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:21:14] [tableAction] Fail to create file.
+[29/12/2013 00:21:15] [tableAction] Fail to create file.
+[29/12/2013 00:21:15] [tableAction] Fail to create file.
+[29/12/2013 00:23:26] [tableAction] Database Connected.
+[29/12/2013 00:23:26] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:23:26] [tableAction] Statement Executed.
+[29/12/2013 00:23:26] [tableAction] Select Item: [course_id]
+[29/12/2013 00:23:26] [tableAction] Select Item: [int]
+[29/12/2013 00:23:26] [tableAction] Select Item: [course_field]
+[29/12/2013 00:23:26] [tableAction] Select Item: [varchar]
+[29/12/2013 00:23:26] [tableAction] Select Item: [course_year]
+[29/12/2013 00:23:26] [tableAction] Select Item: [varchar]
+[29/12/2013 00:23:26] [tableAction] Select Item: [course_url]
+[29/12/2013 00:23:26] [tableAction] Select Item: [varchar]
+[29/12/2013 00:23:26] [tableAction] Select Item: [user_create]
+[29/12/2013 00:23:26] [tableAction] Select Item: [int]
+[29/12/2013 00:23:26] [tableAction] Select Item: [user_update]
+[29/12/2013 00:23:26] [tableAction] Select Item: [int]
+[29/12/2013 00:23:26] [tableAction] Select Item: [time_create]
+[29/12/2013 00:23:26] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:23:26] [tableAction] Select Item: [time_update]
+[29/12/2013 00:23:26] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:23:26] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:23:26] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:23:26] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:23:26] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:23:26] [tableAction] Fail to create file.
+[29/12/2013 00:23:26] [tableAction] Fail to create file.
+[29/12/2013 00:23:26] [tableAction] Fail to create file.
+[29/12/2013 00:24:26] [tableAction] Database Connected.
+[29/12/2013 00:24:26] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:24:26] [tableAction] Statement Executed.
+[29/12/2013 00:24:26] [tableAction] Select Item: [course_id]
+[29/12/2013 00:24:27] [tableAction] Select Item: [int]
+[29/12/2013 00:24:27] [tableAction] Select Item: [course_field]
+[29/12/2013 00:24:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:27] [tableAction] Select Item: [course_year]
+[29/12/2013 00:24:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:27] [tableAction] Select Item: [course_url]
+[29/12/2013 00:24:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:27] [tableAction] Select Item: [user_create]
+[29/12/2013 00:24:27] [tableAction] Select Item: [int]
+[29/12/2013 00:24:27] [tableAction] Select Item: [user_update]
+[29/12/2013 00:24:27] [tableAction] Select Item: [int]
+[29/12/2013 00:24:27] [tableAction] Select Item: [time_create]
+[29/12/2013 00:24:27] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:24:27] [tableAction] Select Item: [time_update]
+[29/12/2013 00:24:27] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:24:27] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:24:27] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:24:27] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:24:27] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:24:27] [tableAction] Fail to create file.
+[29/12/2013 00:24:27] [tableAction] Fail to create file.
+[29/12/2013 00:24:27] [tableAction] Fail to create file.
+[29/12/2013 00:24:39] [tableAction] Database Connected.
+[29/12/2013 00:24:39] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:24:39] [tableAction] Statement Executed.
+[29/12/2013 00:24:39] [tableAction] Select Item: [course_id]
+[29/12/2013 00:24:39] [tableAction] Select Item: [int]
+[29/12/2013 00:24:39] [tableAction] Select Item: [course_field]
+[29/12/2013 00:24:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:39] [tableAction] Select Item: [course_year]
+[29/12/2013 00:24:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:39] [tableAction] Select Item: [course_url]
+[29/12/2013 00:24:39] [tableAction] Select Item: [varchar]
+[29/12/2013 00:24:39] [tableAction] Select Item: [user_create]
+[29/12/2013 00:24:39] [tableAction] Select Item: [int]
+[29/12/2013 00:24:39] [tableAction] Select Item: [user_update]
+[29/12/2013 00:24:39] [tableAction] Select Item: [int]
+[29/12/2013 00:24:39] [tableAction] Select Item: [time_create]
+[29/12/2013 00:24:39] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:24:39] [tableAction] Select Item: [time_update]
+[29/12/2013 00:24:39] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:24:39] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:24:39] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:24:39] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:24:39] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:24:39] [tableAction] Fail to create file.
+[29/12/2013 00:24:39] [tableAction] Fail to create file.
+[29/12/2013 00:24:39] [tableAction] Fail to create file.
+[29/12/2013 00:25:09] [tableAction] Database Connected.
+[29/12/2013 00:25:09] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:25:09] [tableAction] Statement Executed.
+[29/12/2013 00:25:09] [tableAction] Select Item: [course_id]
+[29/12/2013 00:25:09] [tableAction] Select Item: [int]
+[29/12/2013 00:25:09] [tableAction] Select Item: [course_field]
+[29/12/2013 00:25:09] [tableAction] Select Item: [varchar]
+[29/12/2013 00:25:09] [tableAction] Select Item: [course_year]
+[29/12/2013 00:25:09] [tableAction] Select Item: [varchar]
+[29/12/2013 00:25:09] [tableAction] Select Item: [course_url]
+[29/12/2013 00:25:09] [tableAction] Select Item: [varchar]
+[29/12/2013 00:25:09] [tableAction] Select Item: [user_create]
+[29/12/2013 00:25:09] [tableAction] Select Item: [int]
+[29/12/2013 00:25:09] [tableAction] Select Item: [user_update]
+[29/12/2013 00:25:09] [tableAction] Select Item: [int]
+[29/12/2013 00:25:09] [tableAction] Select Item: [time_create]
+[29/12/2013 00:25:09] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:25:09] [tableAction] Select Item: [time_update]
+[29/12/2013 00:25:09] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:25:09] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:25:09] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:25:09] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:25:09] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:25:09] [tableAction] Fail to create file.
+[29/12/2013 00:25:09] [tableAction] Fail to create file.
+[29/12/2013 00:25:09] [tableAction] Fail to create file.
+[29/12/2013 00:28:52] [tableAction] Database Connected.
+[29/12/2013 00:28:52] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:28:52] [tableAction] Statement Executed.
+[29/12/2013 00:28:52] [tableAction] Select Item: [user_id]
+[29/12/2013 00:28:52] [tableAction] Select Item: [int]
+[29/12/2013 00:28:52] [tableAction] Select Item: [username]
+[29/12/2013 00:28:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:28:52] [tableAction] Select Item: [password]
+[29/12/2013 00:28:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:28:52] [tableAction] Select Item: [time_create]
+[29/12/2013 00:28:52] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:28:52] [tableAction] Select Item: [time_update]
+[29/12/2013 00:28:52] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:28:52] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:28:52] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:28:52] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:28:52] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/User.class.php
+[29/12/2013 00:28:52] [tableAction] Fail to create file.
+[29/12/2013 00:28:52] [tableAction] Fail to create file.
+[29/12/2013 00:28:52] [tableAction] Fail to create file.
+[29/12/2013 00:41:18] [tableAction] Database Connected.
+[29/12/2013 00:41:18] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:41:18] [tableAction] Statement Executed.
+[29/12/2013 00:41:18] [tableAction] Select Item: [course_id]
+[29/12/2013 00:41:18] [tableAction] Select Item: [int]
+[29/12/2013 00:41:18] [tableAction] Select Item: [course_field]
+[29/12/2013 00:41:18] [tableAction] Select Item: [varchar]
+[29/12/2013 00:41:18] [tableAction] Select Item: [course_year]
+[29/12/2013 00:41:18] [tableAction] Select Item: [varchar]
+[29/12/2013 00:41:18] [tableAction] Select Item: [course_url]
+[29/12/2013 00:41:18] [tableAction] Select Item: [varchar]
+[29/12/2013 00:41:18] [tableAction] Select Item: [user_create]
+[29/12/2013 00:41:18] [tableAction] Select Item: [int]
+[29/12/2013 00:41:18] [tableAction] Select Item: [user_update]
+[29/12/2013 00:41:18] [tableAction] Select Item: [int]
+[29/12/2013 00:41:18] [tableAction] Select Item: [time_create]
+[29/12/2013 00:41:18] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:41:18] [tableAction] Select Item: [time_update]
+[29/12/2013 00:41:18] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:41:18] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:41:18] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:41:18] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:41:18] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:41:18] [tableAction] Fail to create file.
+[29/12/2013 00:41:18] [tableAction] Fail to create file.
+[29/12/2013 00:41:18] [tableAction] Fail to create file.
+[29/12/2013 00:42:48] [tableAction] Database Connected.
+[29/12/2013 00:42:48] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:42:48] [tableAction] Statement Executed.
+[29/12/2013 00:42:48] [tableAction] Select Item: [course_id]
+[29/12/2013 00:42:48] [tableAction] Select Item: [int]
+[29/12/2013 00:42:48] [tableAction] Select Item: [course_field]
+[29/12/2013 00:42:48] [tableAction] Select Item: [varchar]
+[29/12/2013 00:42:48] [tableAction] Select Item: [course_year]
+[29/12/2013 00:42:48] [tableAction] Select Item: [varchar]
+[29/12/2013 00:42:48] [tableAction] Select Item: [course_url]
+[29/12/2013 00:42:48] [tableAction] Select Item: [varchar]
+[29/12/2013 00:42:48] [tableAction] Select Item: [user_create]
+[29/12/2013 00:42:48] [tableAction] Select Item: [int]
+[29/12/2013 00:42:48] [tableAction] Select Item: [user_update]
+[29/12/2013 00:42:48] [tableAction] Select Item: [int]
+[29/12/2013 00:42:48] [tableAction] Select Item: [time_create]
+[29/12/2013 00:42:48] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:42:48] [tableAction] Select Item: [time_update]
+[29/12/2013 00:42:48] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:42:48] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:42:48] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:42:48] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:42:48] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:42:48] [tableAction] Fail to create file.
+[29/12/2013 00:42:48] [tableAction] Fail to create file.
+[29/12/2013 00:42:48] [tableAction] Fail to create file.
+[29/12/2013 00:43:53] [tableAction] Database Connected.
+[29/12/2013 00:43:53] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:43:53] [tableAction] Statement Executed.
+[29/12/2013 00:43:53] [tableAction] Select Item: [course_id]
+[29/12/2013 00:43:53] [tableAction] Select Item: [int]
+[29/12/2013 00:43:53] [tableAction] Select Item: [course_field]
+[29/12/2013 00:43:53] [tableAction] Select Item: [varchar]
+[29/12/2013 00:43:53] [tableAction] Select Item: [course_year]
+[29/12/2013 00:43:53] [tableAction] Select Item: [varchar]
+[29/12/2013 00:43:53] [tableAction] Select Item: [course_url]
+[29/12/2013 00:43:53] [tableAction] Select Item: [varchar]
+[29/12/2013 00:43:53] [tableAction] Select Item: [user_create]
+[29/12/2013 00:43:53] [tableAction] Select Item: [int]
+[29/12/2013 00:43:53] [tableAction] Select Item: [user_update]
+[29/12/2013 00:43:53] [tableAction] Select Item: [int]
+[29/12/2013 00:43:53] [tableAction] Select Item: [time_create]
+[29/12/2013 00:43:53] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:43:53] [tableAction] Select Item: [time_update]
+[29/12/2013 00:43:53] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:43:53] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:43:53] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:43:53] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:43:53] [tableAction] http://127.0.0.1/Project/SCI/PHPDAOGEN/gen/src/vo/Course.class.php
+[29/12/2013 00:43:53] [tableAction] Fail to create file.
+[29/12/2013 00:43:53] [tableAction] Fail to create file.
+[29/12/2013 00:43:53] [tableAction] Fail to create file.
+[29/12/2013 00:45:27] [tableAction] Database Connected.
+[29/12/2013 00:45:27] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:45:27] [tableAction] Statement Executed.
+[29/12/2013 00:45:27] [tableAction] Select Item: [course_id]
+[29/12/2013 00:45:27] [tableAction] Select Item: [int]
+[29/12/2013 00:45:27] [tableAction] Select Item: [course_field]
+[29/12/2013 00:45:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:45:27] [tableAction] Select Item: [course_year]
+[29/12/2013 00:45:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:45:27] [tableAction] Select Item: [course_url]
+[29/12/2013 00:45:27] [tableAction] Select Item: [varchar]
+[29/12/2013 00:45:27] [tableAction] Select Item: [user_create]
+[29/12/2013 00:45:27] [tableAction] Select Item: [int]
+[29/12/2013 00:45:27] [tableAction] Select Item: [user_update]
+[29/12/2013 00:45:27] [tableAction] Select Item: [int]
+[29/12/2013 00:45:27] [tableAction] Select Item: [time_create]
+[29/12/2013 00:45:27] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:45:27] [tableAction] Select Item: [time_update]
+[29/12/2013 00:45:27] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:45:27] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:45:27] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:45:27] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:45:27] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:45:27] [tableAction] Fail to create file.
+[29/12/2013 00:45:27] [tableAction] Fail to create file.
+[29/12/2013 00:45:27] [tableAction] Fail to create file.
+[29/12/2013 00:46:41] [tableAction] Database Connected.
+[29/12/2013 00:46:41] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:46:41] [tableAction] Statement Executed.
+[29/12/2013 00:46:41] [tableAction] Select Item: [course_id]
+[29/12/2013 00:46:41] [tableAction] Select Item: [int]
+[29/12/2013 00:46:41] [tableAction] Select Item: [course_field]
+[29/12/2013 00:46:41] [tableAction] Select Item: [varchar]
+[29/12/2013 00:46:41] [tableAction] Select Item: [course_year]
+[29/12/2013 00:46:41] [tableAction] Select Item: [varchar]
+[29/12/2013 00:46:41] [tableAction] Select Item: [course_url]
+[29/12/2013 00:46:41] [tableAction] Select Item: [varchar]
+[29/12/2013 00:46:41] [tableAction] Select Item: [user_create]
+[29/12/2013 00:46:41] [tableAction] Select Item: [int]
+[29/12/2013 00:46:41] [tableAction] Select Item: [user_update]
+[29/12/2013 00:46:41] [tableAction] Select Item: [int]
+[29/12/2013 00:46:41] [tableAction] Select Item: [time_create]
+[29/12/2013 00:46:41] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:46:41] [tableAction] Select Item: [time_update]
+[29/12/2013 00:46:41] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:46:41] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:46:41] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:46:41] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:46:41] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:46:41] [tableAction] Fail to create file.
+[29/12/2013 00:46:41] [tableAction] Fail to create file.
+[29/12/2013 00:46:41] [tableAction] Fail to create file.
+[29/12/2013 00:48:54] [tableAction] Database Connected.
+[29/12/2013 00:48:54] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:48:54] [tableAction] Statement Executed.
+[29/12/2013 00:48:54] [tableAction] Select Item: [course_id]
+[29/12/2013 00:48:54] [tableAction] Select Item: [int]
+[29/12/2013 00:48:54] [tableAction] Select Item: [course_field]
+[29/12/2013 00:48:54] [tableAction] Select Item: [varchar]
+[29/12/2013 00:48:54] [tableAction] Select Item: [course_year]
+[29/12/2013 00:48:54] [tableAction] Select Item: [varchar]
+[29/12/2013 00:48:54] [tableAction] Select Item: [course_url]
+[29/12/2013 00:48:54] [tableAction] Select Item: [varchar]
+[29/12/2013 00:48:54] [tableAction] Select Item: [user_create]
+[29/12/2013 00:48:54] [tableAction] Select Item: [int]
+[29/12/2013 00:48:54] [tableAction] Select Item: [user_update]
+[29/12/2013 00:48:54] [tableAction] Select Item: [int]
+[29/12/2013 00:48:54] [tableAction] Select Item: [time_create]
+[29/12/2013 00:48:54] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:48:54] [tableAction] Select Item: [time_update]
+[29/12/2013 00:48:54] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:48:54] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:48:54] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:48:54] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:48:54] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:48:54] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 00:48:54] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 00:48:54] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 00:50:34] [tableAction] Database Connected.
+[29/12/2013 00:50:34] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:50:34] [tableAction] Statement Executed.
+[29/12/2013 00:50:34] [tableAction] Select Item: [user_id]
+[29/12/2013 00:50:34] [tableAction] Select Item: [int]
+[29/12/2013 00:50:34] [tableAction] Select Item: [username]
+[29/12/2013 00:50:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:50:34] [tableAction] Select Item: [password]
+[29/12/2013 00:50:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:50:34] [tableAction] Select Item: [time_create]
+[29/12/2013 00:50:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:50:34] [tableAction] Select Item: [time_update]
+[29/12/2013 00:50:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:50:34] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:50:34] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:50:34] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:50:34] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:50:34] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 00:50:34] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 00:50:34] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:52:42] [tableAction] Database Connected.
+[29/12/2013 00:52:42] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:52:42] [tableAction] Statement Executed.
+[29/12/2013 00:52:42] [tableAction] Select Item: [course_id]
+[29/12/2013 00:52:42] [tableAction] Select Item: [int]
+[29/12/2013 00:52:42] [tableAction] Select Item: [course_field]
+[29/12/2013 00:52:42] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:42] [tableAction] Select Item: [course_year]
+[29/12/2013 00:52:42] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:42] [tableAction] Select Item: [course_url]
+[29/12/2013 00:52:42] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:42] [tableAction] Select Item: [user_create]
+[29/12/2013 00:52:42] [tableAction] Select Item: [int]
+[29/12/2013 00:52:42] [tableAction] Select Item: [user_update]
+[29/12/2013 00:52:42] [tableAction] Select Item: [int]
+[29/12/2013 00:52:42] [tableAction] Select Item: [time_create]
+[29/12/2013 00:52:42] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:52:42] [tableAction] Select Item: [time_update]
+[29/12/2013 00:52:42] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:52:42] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:52:42] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:52:42] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:52:42] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:52:42] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 00:52:42] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 00:52:42] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 00:52:47] [tableAction] Database Connected.
+[29/12/2013 00:52:47] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:52:47] [tableAction] Statement Executed.
+[29/12/2013 00:52:47] [tableAction] Select Item: [user_id]
+[29/12/2013 00:52:47] [tableAction] Select Item: [int]
+[29/12/2013 00:52:47] [tableAction] Select Item: [username]
+[29/12/2013 00:52:47] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:47] [tableAction] Select Item: [password]
+[29/12/2013 00:52:47] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:47] [tableAction] Select Item: [time_create]
+[29/12/2013 00:52:47] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:52:47] [tableAction] Select Item: [time_update]
+[29/12/2013 00:52:47] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:52:47] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:52:47] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:52:47] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:52:47] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:52:47] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 00:52:47] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 00:52:47] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:52:52] [tableAction] Database Connected.
+[29/12/2013 00:52:52] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 00:52:52] [tableAction] Statement Executed.
+[29/12/2013 00:52:52] [tableAction] Select Item: [role_id]
+[29/12/2013 00:52:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:52] [tableAction] Select Item: [role_name]
+[29/12/2013 00:52:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:52:52] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:52:52] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 00:52:52] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 00:52:52] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 00:52:52] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 00:52:52] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 00:52:52] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 00:53:01] [tableAction] Database Connected.
+[29/12/2013 00:53:01] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 00:53:01] [tableAction] Statement Executed.
+[29/12/2013 00:53:01] [tableAction] Select Item: [username]
+[29/12/2013 00:53:01] [tableAction] Select Item: [varchar]
+[29/12/2013 00:53:01] [tableAction] Select Item: [role_id]
+[29/12/2013 00:53:01] [tableAction] Select Item: [varchar]
+[29/12/2013 00:53:01] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:53:01] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 00:53:01] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 00:53:01] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 00:53:01] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 00:53:01] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 00:53:01] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 00:55:05] [tableAction] Database Connected.
+[29/12/2013 00:55:05] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:55:06] [tableAction] Statement Executed.
+[29/12/2013 00:55:06] [tableAction] Select Item: [course_id]
+[29/12/2013 00:55:06] [tableAction] Select Item: [int]
+[29/12/2013 00:55:06] [tableAction] Select Item: [course_field]
+[29/12/2013 00:55:06] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:06] [tableAction] Select Item: [course_year]
+[29/12/2013 00:55:06] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:06] [tableAction] Select Item: [course_url]
+[29/12/2013 00:55:06] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:06] [tableAction] Select Item: [user_create]
+[29/12/2013 00:55:06] [tableAction] Select Item: [int]
+[29/12/2013 00:55:06] [tableAction] Select Item: [user_update]
+[29/12/2013 00:55:06] [tableAction] Select Item: [int]
+[29/12/2013 00:55:06] [tableAction] Select Item: [time_create]
+[29/12/2013 00:55:06] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:06] [tableAction] Select Item: [time_update]
+[29/12/2013 00:55:06] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:06] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:06] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:55:06] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:55:06] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:55:06] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 00:55:06] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 00:55:06] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 00:55:10] [tableAction] Database Connected.
+[29/12/2013 00:55:10] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:55:10] [tableAction] Statement Executed.
+[29/12/2013 00:55:10] [tableAction] Select Item: [user_id]
+[29/12/2013 00:55:10] [tableAction] Select Item: [int]
+[29/12/2013 00:55:10] [tableAction] Select Item: [username]
+[29/12/2013 00:55:10] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:10] [tableAction] Select Item: [password]
+[29/12/2013 00:55:10] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:10] [tableAction] Select Item: [time_create]
+[29/12/2013 00:55:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:10] [tableAction] Select Item: [time_update]
+[29/12/2013 00:55:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:10] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:10] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:55:10] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:55:10] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:55:10] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 00:55:10] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 00:55:10] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:55:15] [tableAction] Database Connected.
+[29/12/2013 00:55:15] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 00:55:15] [tableAction] Statement Executed.
+[29/12/2013 00:55:15] [tableAction] Select Item: [role_id]
+[29/12/2013 00:55:15] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:15] [tableAction] Select Item: [role_name]
+[29/12/2013 00:55:15] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:15] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:15] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 00:55:15] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 00:55:15] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 00:55:15] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 00:55:15] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 00:55:15] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 00:55:21] [tableAction] Database Connected.
+[29/12/2013 00:55:21] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 00:55:21] [tableAction] Statement Executed.
+[29/12/2013 00:55:21] [tableAction] Select Item: [username]
+[29/12/2013 00:55:21] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:21] [tableAction] Select Item: [role_id]
+[29/12/2013 00:55:21] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:21] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:21] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 00:55:21] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 00:55:21] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 00:55:21] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 00:55:21] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 00:55:21] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 00:55:52] [tableAction] Database Connected.
+[29/12/2013 00:55:52] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:55:52] [tableAction] Statement Executed.
+[29/12/2013 00:55:52] [tableAction] Select Item: [course_id]
+[29/12/2013 00:55:52] [tableAction] Select Item: [int]
+[29/12/2013 00:55:52] [tableAction] Select Item: [course_field]
+[29/12/2013 00:55:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:52] [tableAction] Select Item: [course_year]
+[29/12/2013 00:55:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:52] [tableAction] Select Item: [course_url]
+[29/12/2013 00:55:52] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:52] [tableAction] Select Item: [user_create]
+[29/12/2013 00:55:52] [tableAction] Select Item: [int]
+[29/12/2013 00:55:52] [tableAction] Select Item: [user_update]
+[29/12/2013 00:55:52] [tableAction] Select Item: [int]
+[29/12/2013 00:55:52] [tableAction] Select Item: [time_create]
+[29/12/2013 00:55:52] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:52] [tableAction] Select Item: [time_update]
+[29/12/2013 00:55:52] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:52] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:52] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:55:52] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:55:52] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:55:52] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 00:55:52] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 00:55:52] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 00:55:56] [tableAction] Database Connected.
+[29/12/2013 00:55:56] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:55:56] [tableAction] Statement Executed.
+[29/12/2013 00:55:56] [tableAction] Select Item: [user_id]
+[29/12/2013 00:55:56] [tableAction] Select Item: [int]
+[29/12/2013 00:55:56] [tableAction] Select Item: [username]
+[29/12/2013 00:55:56] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:56] [tableAction] Select Item: [password]
+[29/12/2013 00:55:56] [tableAction] Select Item: [varchar]
+[29/12/2013 00:55:56] [tableAction] Select Item: [time_create]
+[29/12/2013 00:55:56] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:56] [tableAction] Select Item: [time_update]
+[29/12/2013 00:55:56] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:55:56] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:55:56] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:55:56] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:55:56] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:55:56] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 00:55:56] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 00:55:56] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:56:02] [tableAction] Database Connected.
+[29/12/2013 00:56:02] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 00:56:02] [tableAction] Statement Executed.
+[29/12/2013 00:56:02] [tableAction] Select Item: [username]
+[29/12/2013 00:56:02] [tableAction] Select Item: [varchar]
+[29/12/2013 00:56:02] [tableAction] Select Item: [role_id]
+[29/12/2013 00:56:02] [tableAction] Select Item: [varchar]
+[29/12/2013 00:56:02] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:56:02] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 00:56:02] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 00:56:02] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 00:56:02] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 00:56:02] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 00:56:02] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 00:56:06] [tableAction] Database Connected.
+[29/12/2013 00:56:06] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 00:56:06] [tableAction] Statement Executed.
+[29/12/2013 00:56:06] [tableAction] Select Item: [role_id]
+[29/12/2013 00:56:06] [tableAction] Select Item: [varchar]
+[29/12/2013 00:56:06] [tableAction] Select Item: [role_name]
+[29/12/2013 00:56:06] [tableAction] Select Item: [varchar]
+[29/12/2013 00:56:06] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:56:06] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 00:56:06] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 00:56:06] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 00:56:06] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 00:56:06] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 00:56:06] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 00:58:24] [tableAction] Database Connected.
+[29/12/2013 00:58:24] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 00:58:24] [tableAction] Statement Executed.
+[29/12/2013 00:58:24] [tableAction] Select Item: [course_id]
+[29/12/2013 00:58:24] [tableAction] Select Item: [int]
+[29/12/2013 00:58:24] [tableAction] Select Item: [course_field]
+[29/12/2013 00:58:24] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:24] [tableAction] Select Item: [course_year]
+[29/12/2013 00:58:24] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:24] [tableAction] Select Item: [course_url]
+[29/12/2013 00:58:24] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:24] [tableAction] Select Item: [user_create]
+[29/12/2013 00:58:24] [tableAction] Select Item: [int]
+[29/12/2013 00:58:24] [tableAction] Select Item: [user_update]
+[29/12/2013 00:58:24] [tableAction] Select Item: [int]
+[29/12/2013 00:58:24] [tableAction] Select Item: [time_create]
+[29/12/2013 00:58:24] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:58:24] [tableAction] Select Item: [time_update]
+[29/12/2013 00:58:24] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:58:24] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:58:24] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 00:58:24] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 00:58:24] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 00:58:24] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 00:58:24] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 00:58:24] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 00:58:34] [tableAction] Database Connected.
+[29/12/2013 00:58:34] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 00:58:34] [tableAction] Statement Executed.
+[29/12/2013 00:58:34] [tableAction] Select Item: [user_id]
+[29/12/2013 00:58:34] [tableAction] Select Item: [int]
+[29/12/2013 00:58:34] [tableAction] Select Item: [username]
+[29/12/2013 00:58:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:34] [tableAction] Select Item: [password]
+[29/12/2013 00:58:34] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:34] [tableAction] Select Item: [time_create]
+[29/12/2013 00:58:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:58:34] [tableAction] Select Item: [time_update]
+[29/12/2013 00:58:34] [tableAction] Select Item: [timestamp]
+[29/12/2013 00:58:34] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:58:34] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 00:58:34] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 00:58:34] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 00:58:34] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 00:58:34] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 00:58:34] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 00:58:42] [tableAction] Database Connected.
+[29/12/2013 00:58:42] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 00:58:42] [tableAction] Statement Executed.
+[29/12/2013 00:58:42] [tableAction] Select Item: [username]
+[29/12/2013 00:58:42] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:42] [tableAction] Select Item: [role_id]
+[29/12/2013 00:58:42] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:42] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:58:42] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 00:58:42] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 00:58:42] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 00:58:42] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 00:58:42] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 00:58:42] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 00:58:47] [tableAction] Database Connected.
+[29/12/2013 00:58:47] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 00:58:47] [tableAction] Statement Executed.
+[29/12/2013 00:58:47] [tableAction] Select Item: [role_id]
+[29/12/2013 00:58:47] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:47] [tableAction] Select Item: [role_name]
+[29/12/2013 00:58:47] [tableAction] Select Item: [varchar]
+[29/12/2013 00:58:47] [tableAction] Get Table Columns Successful.
+[29/12/2013 00:58:47] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 00:58:47] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 00:58:47] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 00:58:47] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 00:58:47] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 00:58:47] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 01:00:04] [tableAction] Database Connected.
+[29/12/2013 01:00:04] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 01:00:04] [tableAction] Statement Executed.
+[29/12/2013 01:00:04] [tableAction] Select Item: [course_id]
+[29/12/2013 01:00:04] [tableAction] Select Item: [int]
+[29/12/2013 01:00:04] [tableAction] Select Item: [course_field]
+[29/12/2013 01:00:04] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:04] [tableAction] Select Item: [course_year]
+[29/12/2013 01:00:04] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:04] [tableAction] Select Item: [course_url]
+[29/12/2013 01:00:04] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:04] [tableAction] Select Item: [user_create]
+[29/12/2013 01:00:04] [tableAction] Select Item: [int]
+[29/12/2013 01:00:04] [tableAction] Select Item: [user_update]
+[29/12/2013 01:00:04] [tableAction] Select Item: [int]
+[29/12/2013 01:00:04] [tableAction] Select Item: [time_create]
+[29/12/2013 01:00:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:00:04] [tableAction] Select Item: [time_update]
+[29/12/2013 01:00:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:00:04] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:00:04] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 01:00:04] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 01:00:04] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 01:00:04] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 01:00:04] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 01:00:04] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 01:00:08] [tableAction] Database Connected.
+[29/12/2013 01:00:08] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 01:00:08] [tableAction] Statement Executed.
+[29/12/2013 01:00:08] [tableAction] Select Item: [role_id]
+[29/12/2013 01:00:08] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:09] [tableAction] Select Item: [role_name]
+[29/12/2013 01:00:09] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:09] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:00:09] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 01:00:09] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 01:00:09] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 01:00:09] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 01:00:09] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 01:00:09] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 01:00:13] [tableAction] Database Connected.
+[29/12/2013 01:00:13] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 01:00:13] [tableAction] Statement Executed.
+[29/12/2013 01:00:13] [tableAction] Select Item: [user_id]
+[29/12/2013 01:00:13] [tableAction] Select Item: [int]
+[29/12/2013 01:00:13] [tableAction] Select Item: [username]
+[29/12/2013 01:00:13] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:13] [tableAction] Select Item: [password]
+[29/12/2013 01:00:13] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:13] [tableAction] Select Item: [time_create]
+[29/12/2013 01:00:13] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:00:13] [tableAction] Select Item: [time_update]
+[29/12/2013 01:00:13] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:00:13] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:00:13] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 01:00:13] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 01:00:13] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 01:00:13] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 01:00:13] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 01:00:13] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 01:00:19] [tableAction] Database Connected.
+[29/12/2013 01:00:19] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 01:00:19] [tableAction] Statement Executed.
+[29/12/2013 01:00:19] [tableAction] Select Item: [username]
+[29/12/2013 01:00:19] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:19] [tableAction] Select Item: [role_id]
+[29/12/2013 01:00:19] [tableAction] Select Item: [varchar]
+[29/12/2013 01:00:19] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:00:19] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 01:00:19] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 01:00:19] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 01:00:19] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 01:00:19] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 01:00:19] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 01:12:59] [tableAction] Database Connected.
+[29/12/2013 01:12:59] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 01:12:59] [tableAction] Statement Executed.
+[29/12/2013 01:12:59] [tableAction] Select Item: [course_id]
+[29/12/2013 01:12:59] [tableAction] Select Item: [int]
+[29/12/2013 01:12:59] [tableAction] Select Item: [course_field]
+[29/12/2013 01:12:59] [tableAction] Select Item: [varchar]
+[29/12/2013 01:12:59] [tableAction] Select Item: [course_year]
+[29/12/2013 01:12:59] [tableAction] Select Item: [varchar]
+[29/12/2013 01:12:59] [tableAction] Select Item: [course_url]
+[29/12/2013 01:12:59] [tableAction] Select Item: [varchar]
+[29/12/2013 01:12:59] [tableAction] Select Item: [user_create]
+[29/12/2013 01:12:59] [tableAction] Select Item: [int]
+[29/12/2013 01:12:59] [tableAction] Select Item: [user_update]
+[29/12/2013 01:12:59] [tableAction] Select Item: [int]
+[29/12/2013 01:12:59] [tableAction] Select Item: [time_create]
+[29/12/2013 01:12:59] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:12:59] [tableAction] Select Item: [time_update]
+[29/12/2013 01:12:59] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:12:59] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:12:59] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 01:12:59] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 01:12:59] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 01:12:59] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 01:12:59] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 01:12:59] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 01:13:04] [tableAction] Database Connected.
+[29/12/2013 01:13:04] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 01:13:04] [tableAction] Statement Executed.
+[29/12/2013 01:13:04] [tableAction] Select Item: [user_id]
+[29/12/2013 01:13:04] [tableAction] Select Item: [int]
+[29/12/2013 01:13:04] [tableAction] Select Item: [username]
+[29/12/2013 01:13:04] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:04] [tableAction] Select Item: [password]
+[29/12/2013 01:13:04] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:04] [tableAction] Select Item: [time_create]
+[29/12/2013 01:13:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:13:04] [tableAction] Select Item: [time_update]
+[29/12/2013 01:13:04] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:13:04] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:13:04] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 01:13:04] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 01:13:04] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 01:13:04] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 01:13:04] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 01:13:04] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 01:13:10] [tableAction] Database Connected.
+[29/12/2013 01:13:10] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_id'
+[29/12/2013 01:13:10] [tableAction] Statement Executed.
+[29/12/2013 01:13:10] [tableAction] This Table not have column! Please check Table name.
+[29/12/2013 01:13:11] [tableAction] Fail to get Table Columns.
+[29/12/2013 01:13:35] [tableAction] Database Connected.
+[29/12/2013 01:13:35] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[29/12/2013 01:13:35] [tableAction] Statement Executed.
+[29/12/2013 01:13:35] [tableAction] Select Item: [username]
+[29/12/2013 01:13:35] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:35] [tableAction] Select Item: [role_id]
+[29/12/2013 01:13:35] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:35] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:13:35] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[29/12/2013 01:13:35] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[29/12/2013 01:13:35] [tableAction] gen/src/vo/UserRole.class.php
+[29/12/2013 01:13:35] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[29/12/2013 01:13:35] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[29/12/2013 01:13:35] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[29/12/2013 01:13:49] [tableAction] Database Connected.
+[29/12/2013 01:13:49] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[29/12/2013 01:13:49] [tableAction] Statement Executed.
+[29/12/2013 01:13:49] [tableAction] Select Item: [user_id]
+[29/12/2013 01:13:49] [tableAction] Select Item: [int]
+[29/12/2013 01:13:49] [tableAction] Select Item: [username]
+[29/12/2013 01:13:49] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:49] [tableAction] Select Item: [password]
+[29/12/2013 01:13:49] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:49] [tableAction] Select Item: [time_create]
+[29/12/2013 01:13:49] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:13:49] [tableAction] Select Item: [time_update]
+[29/12/2013 01:13:49] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:13:49] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:13:49] [tableAction] gen/src/DAO/UserDAO.class.php
+[29/12/2013 01:13:49] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[29/12/2013 01:13:49] [tableAction] gen/src/vo/User.class.php
+[29/12/2013 01:13:49] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[29/12/2013 01:13:49] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[29/12/2013 01:13:49] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[29/12/2013 01:13:54] [tableAction] Database Connected.
+[29/12/2013 01:13:54] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[29/12/2013 01:13:54] [tableAction] Statement Executed.
+[29/12/2013 01:13:54] [tableAction] Select Item: [role_id]
+[29/12/2013 01:13:54] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:54] [tableAction] Select Item: [role_name]
+[29/12/2013 01:13:54] [tableAction] Select Item: [varchar]
+[29/12/2013 01:13:54] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:13:54] [tableAction] gen/src/DAO/RoleDAO.class.php
+[29/12/2013 01:13:54] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[29/12/2013 01:13:54] [tableAction] gen/src/vo/Role.class.php
+[29/12/2013 01:13:54] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[29/12/2013 01:13:54] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[29/12/2013 01:13:54] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[29/12/2013 01:19:10] [tableAction] Database Connected.
+[29/12/2013 01:19:10] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 01:19:10] [tableAction] Statement Executed.
+[29/12/2013 01:19:10] [tableAction] Select Item: [course_id]
+[29/12/2013 01:19:10] [tableAction] Select Item: [int]
+[29/12/2013 01:19:10] [tableAction] Select Item: [course_field]
+[29/12/2013 01:19:10] [tableAction] Select Item: [varchar]
+[29/12/2013 01:19:10] [tableAction] Select Item: [course_year]
+[29/12/2013 01:19:10] [tableAction] Select Item: [varchar]
+[29/12/2013 01:19:10] [tableAction] Select Item: [course_url]
+[29/12/2013 01:19:10] [tableAction] Select Item: [varchar]
+[29/12/2013 01:19:10] [tableAction] Select Item: [user_create]
+[29/12/2013 01:19:10] [tableAction] Select Item: [int]
+[29/12/2013 01:19:10] [tableAction] Select Item: [user_update]
+[29/12/2013 01:19:10] [tableAction] Select Item: [int]
+[29/12/2013 01:19:10] [tableAction] Select Item: [time_create]
+[29/12/2013 01:19:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:19:10] [tableAction] Select Item: [time_update]
+[29/12/2013 01:19:10] [tableAction] Select Item: [timestamp]
+[29/12/2013 01:19:10] [tableAction] Get Table Columns Successful.
+[29/12/2013 01:19:10] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 01:19:10] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 01:19:10] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 01:19:10] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 01:19:10] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 01:19:10] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 12:39:53] [tableAction] Database Connected.
+[29/12/2013 12:39:54] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 12:39:54] [tableAction] Statement Executed.
+[29/12/2013 12:39:54] [tableAction] Select Item: [course_id]
+[29/12/2013 12:39:54] [tableAction] Select Item: [int]
+[29/12/2013 12:39:54] [tableAction] Select Item: [course_field]
+[29/12/2013 12:39:54] [tableAction] Select Item: [varchar]
+[29/12/2013 12:39:54] [tableAction] Select Item: [course_year]
+[29/12/2013 12:39:54] [tableAction] Select Item: [varchar]
+[29/12/2013 12:39:54] [tableAction] Select Item: [course_url]
+[29/12/2013 12:39:54] [tableAction] Select Item: [varchar]
+[29/12/2013 12:39:54] [tableAction] Select Item: [user_create]
+[29/12/2013 12:39:54] [tableAction] Select Item: [int]
+[29/12/2013 12:39:54] [tableAction] Select Item: [user_update]
+[29/12/2013 12:39:54] [tableAction] Select Item: [int]
+[29/12/2013 12:39:54] [tableAction] Select Item: [time_create]
+[29/12/2013 12:39:54] [tableAction] Select Item: [timestamp]
+[29/12/2013 12:39:54] [tableAction] Select Item: [time_update]
+[29/12/2013 12:39:54] [tableAction] Select Item: [timestamp]
+[29/12/2013 12:39:54] [tableAction] Get Table Columns Successful.
+[29/12/2013 12:39:54] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 12:39:54] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 12:39:54] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 12:39:54] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 12:39:54] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 12:39:54] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[29/12/2013 12:40:18] [tableAction] Database Connected.
+[29/12/2013 12:40:18] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = ''
+[29/12/2013 12:40:18] [tableAction] Execute Fail: () 
+[29/12/2013 12:40:18] [tableAction] Fail to get Table Columns.
+[29/12/2013 12:40:28] [tableAction] Database Connected.
+[29/12/2013 12:40:28] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[29/12/2013 12:40:28] [tableAction] Statement Executed.
+[29/12/2013 12:40:28] [tableAction] Select Item: [course_id]
+[29/12/2013 12:40:28] [tableAction] Select Item: [int]
+[29/12/2013 12:40:28] [tableAction] Select Item: [course_field]
+[29/12/2013 12:40:28] [tableAction] Select Item: [varchar]
+[29/12/2013 12:40:28] [tableAction] Select Item: [course_year]
+[29/12/2013 12:40:28] [tableAction] Select Item: [varchar]
+[29/12/2013 12:40:28] [tableAction] Select Item: [course_url]
+[29/12/2013 12:40:28] [tableAction] Select Item: [varchar]
+[29/12/2013 12:40:28] [tableAction] Select Item: [user_create]
+[29/12/2013 12:40:28] [tableAction] Select Item: [int]
+[29/12/2013 12:40:28] [tableAction] Select Item: [user_update]
+[29/12/2013 12:40:28] [tableAction] Select Item: [int]
+[29/12/2013 12:40:28] [tableAction] Select Item: [time_create]
+[29/12/2013 12:40:28] [tableAction] Select Item: [timestamp]
+[29/12/2013 12:40:28] [tableAction] Select Item: [time_update]
+[29/12/2013 12:40:28] [tableAction] Select Item: [timestamp]
+[29/12/2013 12:40:28] [tableAction] Get Table Columns Successful.
+[29/12/2013 12:40:28] [tableAction] gen/src/DAO/CourseDAO.class.php
+[29/12/2013 12:40:28] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[29/12/2013 12:40:28] [tableAction] gen/src/vo/Course.class.php
+[29/12/2013 12:40:28] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[29/12/2013 12:40:28] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[29/12/2013 12:40:28] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 13:42:26] [tableAction] Database Connected.
+[25/01/2014 13:42:26] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[25/01/2014 13:42:27] [tableAction] Statement Executed.
+[25/01/2014 13:42:27] [tableAction] Select Item: [course_id]
+[25/01/2014 13:42:27] [tableAction] Select Item: [int]
+[25/01/2014 13:42:27] [tableAction] Select Item: [course_field]
+[25/01/2014 13:42:27] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:27] [tableAction] Select Item: [course_year]
+[25/01/2014 13:42:27] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:27] [tableAction] Select Item: [course_url]
+[25/01/2014 13:42:27] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:27] [tableAction] Select Item: [user_create]
+[25/01/2014 13:42:27] [tableAction] Select Item: [int]
+[25/01/2014 13:42:27] [tableAction] Select Item: [user_update]
+[25/01/2014 13:42:27] [tableAction] Select Item: [int]
+[25/01/2014 13:42:27] [tableAction] Select Item: [time_create]
+[25/01/2014 13:42:27] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:42:27] [tableAction] Select Item: [time_update]
+[25/01/2014 13:42:27] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:42:27] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:42:27] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 13:42:27] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 13:42:27] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 13:42:27] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 13:42:27] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 13:42:27] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 13:42:33] [tableAction] Database Connected.
+[25/01/2014 13:42:33] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[25/01/2014 13:42:33] [tableAction] Statement Executed.
+[25/01/2014 13:42:33] [tableAction] Select Item: [user_id]
+[25/01/2014 13:42:33] [tableAction] Select Item: [int]
+[25/01/2014 13:42:33] [tableAction] Select Item: [username]
+[25/01/2014 13:42:33] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:33] [tableAction] Select Item: [password]
+[25/01/2014 13:42:33] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:33] [tableAction] Select Item: [time_create]
+[25/01/2014 13:42:33] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:42:33] [tableAction] Select Item: [time_update]
+[25/01/2014 13:42:33] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:42:33] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:42:33] [tableAction] gen/src/DAO/UserDAO.class.php
+[25/01/2014 13:42:33] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[25/01/2014 13:42:33] [tableAction] gen/src/vo/User.class.php
+[25/01/2014 13:42:33] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[25/01/2014 13:42:33] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[25/01/2014 13:42:33] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[25/01/2014 13:42:42] [tableAction] Database Connected.
+[25/01/2014 13:42:42] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[25/01/2014 13:42:42] [tableAction] Statement Executed.
+[25/01/2014 13:42:42] [tableAction] Select Item: [username]
+[25/01/2014 13:42:42] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:42] [tableAction] Select Item: [role_id]
+[25/01/2014 13:42:42] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:42] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:42:42] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[25/01/2014 13:42:42] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[25/01/2014 13:42:42] [tableAction] gen/src/vo/UserRole.class.php
+[25/01/2014 13:42:42] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[25/01/2014 13:42:42] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[25/01/2014 13:42:42] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[25/01/2014 13:42:47] [tableAction] Database Connected.
+[25/01/2014 13:42:47] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[25/01/2014 13:42:47] [tableAction] Statement Executed.
+[25/01/2014 13:42:47] [tableAction] Select Item: [role_id]
+[25/01/2014 13:42:47] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:47] [tableAction] Select Item: [role_name]
+[25/01/2014 13:42:47] [tableAction] Select Item: [varchar]
+[25/01/2014 13:42:47] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:42:47] [tableAction] gen/src/DAO/RoleDAO.class.php
+[25/01/2014 13:42:47] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[25/01/2014 13:42:47] [tableAction] gen/src/vo/Role.class.php
+[25/01/2014 13:42:47] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[25/01/2014 13:42:47] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[25/01/2014 13:42:47] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[25/01/2014 13:48:36] [tableAction] Database Connected.
+[25/01/2014 13:48:36] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[25/01/2014 13:48:36] [tableAction] Statement Executed.
+[25/01/2014 13:48:36] [tableAction] Select Item: [course_id]
+[25/01/2014 13:48:36] [tableAction] Select Item: [int]
+[25/01/2014 13:48:36] [tableAction] Select Item: [course_field]
+[25/01/2014 13:48:36] [tableAction] Select Item: [varchar]
+[25/01/2014 13:48:36] [tableAction] Select Item: [course_year]
+[25/01/2014 13:48:36] [tableAction] Select Item: [varchar]
+[25/01/2014 13:48:36] [tableAction] Select Item: [course_url]
+[25/01/2014 13:48:36] [tableAction] Select Item: [varchar]
+[25/01/2014 13:48:36] [tableAction] Select Item: [user_create]
+[25/01/2014 13:48:36] [tableAction] Select Item: [int]
+[25/01/2014 13:48:36] [tableAction] Select Item: [user_update]
+[25/01/2014 13:48:36] [tableAction] Select Item: [int]
+[25/01/2014 13:48:36] [tableAction] Select Item: [time_create]
+[25/01/2014 13:48:36] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:48:36] [tableAction] Select Item: [time_update]
+[25/01/2014 13:48:36] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:48:36] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:48:36] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 13:48:36] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 13:48:36] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 13:48:36] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 13:48:36] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 13:48:36] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 13:49:37] [tableAction] Database Connected.
+[25/01/2014 13:49:37] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'Course'
+[25/01/2014 13:49:37] [tableAction] Statement Executed.
+[25/01/2014 13:49:37] [tableAction] Select Item: [course_id]
+[25/01/2014 13:49:37] [tableAction] Select Item: [int]
+[25/01/2014 13:49:37] [tableAction] Select Item: [course_field]
+[25/01/2014 13:49:37] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:37] [tableAction] Select Item: [course_year]
+[25/01/2014 13:49:37] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:37] [tableAction] Select Item: [course_url]
+[25/01/2014 13:49:37] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:37] [tableAction] Select Item: [user_create]
+[25/01/2014 13:49:37] [tableAction] Select Item: [int]
+[25/01/2014 13:49:37] [tableAction] Select Item: [user_update]
+[25/01/2014 13:49:37] [tableAction] Select Item: [int]
+[25/01/2014 13:49:37] [tableAction] Select Item: [time_create]
+[25/01/2014 13:49:37] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:49:37] [tableAction] Select Item: [time_update]
+[25/01/2014 13:49:37] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:49:37] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:49:37] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 13:49:37] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 13:49:37] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 13:49:37] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 13:49:37] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 13:49:37] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 13:49:44] [tableAction] Database Connected.
+[25/01/2014 13:49:44] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[25/01/2014 13:49:44] [tableAction] Statement Executed.
+[25/01/2014 13:49:44] [tableAction] Select Item: [course_id]
+[25/01/2014 13:49:44] [tableAction] Select Item: [int]
+[25/01/2014 13:49:44] [tableAction] Select Item: [course_field]
+[25/01/2014 13:49:44] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:44] [tableAction] Select Item: [course_year]
+[25/01/2014 13:49:44] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:44] [tableAction] Select Item: [course_url]
+[25/01/2014 13:49:44] [tableAction] Select Item: [varchar]
+[25/01/2014 13:49:44] [tableAction] Select Item: [user_create]
+[25/01/2014 13:49:44] [tableAction] Select Item: [int]
+[25/01/2014 13:49:44] [tableAction] Select Item: [user_update]
+[25/01/2014 13:49:44] [tableAction] Select Item: [int]
+[25/01/2014 13:49:44] [tableAction] Select Item: [time_create]
+[25/01/2014 13:49:44] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:49:44] [tableAction] Select Item: [time_update]
+[25/01/2014 13:49:44] [tableAction] Select Item: [timestamp]
+[25/01/2014 13:49:44] [tableAction] Get Table Columns Successful.
+[25/01/2014 13:49:44] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 13:49:44] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 13:49:44] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 13:49:44] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 13:49:44] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 13:49:44] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 14:02:21] [tableAction] Database Connected.
+[25/01/2014 14:02:21] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'Course'
+[25/01/2014 14:02:21] [tableAction] Statement Executed.
+[25/01/2014 14:02:21] [tableAction] Select Item: [course_id]
+[25/01/2014 14:02:21] [tableAction] Select Item: [int]
+[25/01/2014 14:02:21] [tableAction] Select Item: [course_field]
+[25/01/2014 14:02:21] [tableAction] Select Item: [varchar]
+[25/01/2014 14:02:21] [tableAction] Select Item: [course_year]
+[25/01/2014 14:02:21] [tableAction] Select Item: [varchar]
+[25/01/2014 14:02:21] [tableAction] Select Item: [course_url]
+[25/01/2014 14:02:21] [tableAction] Select Item: [varchar]
+[25/01/2014 14:02:21] [tableAction] Select Item: [user_create]
+[25/01/2014 14:02:21] [tableAction] Select Item: [int]
+[25/01/2014 14:02:21] [tableAction] Select Item: [user_update]
+[25/01/2014 14:02:21] [tableAction] Select Item: [int]
+[25/01/2014 14:02:21] [tableAction] Select Item: [time_create]
+[25/01/2014 14:02:21] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:02:21] [tableAction] Select Item: [time_update]
+[25/01/2014 14:02:21] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:02:21] [tableAction] Get Table Columns Successful.
+[25/01/2014 14:02:21] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 14:02:21] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 14:02:21] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 14:02:21] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 14:02:21] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 14:02:21] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 14:04:24] [tableAction] Database Connected.
+[25/01/2014 14:04:24] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'couse'
+[25/01/2014 14:04:24] [tableAction] Statement Executed.
+[25/01/2014 14:04:24] [tableAction] This Table not have column! Please check Table name.
+[25/01/2014 14:04:24] [tableAction] Fail to get Table Columns.
+[25/01/2014 14:04:30] [tableAction] Database Connected.
+[25/01/2014 14:04:30] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course'
+[25/01/2014 14:04:30] [tableAction] Statement Executed.
+[25/01/2014 14:04:30] [tableAction] Select Item: [course_id]
+[25/01/2014 14:04:30] [tableAction] Select Item: [int]
+[25/01/2014 14:04:30] [tableAction] Select Item: [course_field]
+[25/01/2014 14:04:30] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:30] [tableAction] Select Item: [course_year]
+[25/01/2014 14:04:30] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:30] [tableAction] Select Item: [course_url]
+[25/01/2014 14:04:30] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:30] [tableAction] Select Item: [user_create]
+[25/01/2014 14:04:30] [tableAction] Select Item: [int]
+[25/01/2014 14:04:30] [tableAction] Select Item: [user_update]
+[25/01/2014 14:04:30] [tableAction] Select Item: [int]
+[25/01/2014 14:04:30] [tableAction] Select Item: [time_create]
+[25/01/2014 14:04:30] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:04:30] [tableAction] Select Item: [time_update]
+[25/01/2014 14:04:30] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:04:30] [tableAction] Get Table Columns Successful.
+[25/01/2014 14:04:30] [tableAction] gen/src/DAO/CourseDAO.class.php
+[25/01/2014 14:04:30] [tableAction] gen/src/DAO/BaseDAO/CourseBaseDAO.class.php
+[25/01/2014 14:04:30] [tableAction] gen/src/vo/Course.class.php
+[25/01/2014 14:04:30] [tableAction] Create File [gen/src/DAO/CourseDAO.class.php] Success.
+[25/01/2014 14:04:30] [tableAction] Create File [gen/src/vo/Course.class.php] Success.
+[25/01/2014 14:04:30] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseBaseDAO.class.php] Success.
+[25/01/2014 14:04:48] [tableAction] Database Connected.
+[25/01/2014 14:04:48] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user'
+[25/01/2014 14:04:48] [tableAction] Statement Executed.
+[25/01/2014 14:04:48] [tableAction] Select Item: [user_id]
+[25/01/2014 14:04:48] [tableAction] Select Item: [int]
+[25/01/2014 14:04:48] [tableAction] Select Item: [username]
+[25/01/2014 14:04:48] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:48] [tableAction] Select Item: [password]
+[25/01/2014 14:04:48] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:48] [tableAction] Select Item: [time_create]
+[25/01/2014 14:04:48] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:04:48] [tableAction] Select Item: [time_update]
+[25/01/2014 14:04:48] [tableAction] Select Item: [timestamp]
+[25/01/2014 14:04:48] [tableAction] Get Table Columns Successful.
+[25/01/2014 14:04:48] [tableAction] gen/src/DAO/UserDAO.class.php
+[25/01/2014 14:04:48] [tableAction] gen/src/DAO/BaseDAO/UserBaseDAO.class.php
+[25/01/2014 14:04:48] [tableAction] gen/src/vo/User.class.php
+[25/01/2014 14:04:48] [tableAction] Create File [gen/src/DAO/UserDAO.class.php] Success.
+[25/01/2014 14:04:48] [tableAction] Create File [gen/src/vo/User.class.php] Success.
+[25/01/2014 14:04:48] [tableAction] Create File [gen/src/DAO/BaseDAO/UserBaseDAO.class.php] Success.
+[25/01/2014 14:04:55] [tableAction] Database Connected.
+[25/01/2014 14:04:55] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'user_role'
+[25/01/2014 14:04:55] [tableAction] Statement Executed.
+[25/01/2014 14:04:55] [tableAction] Select Item: [username]
+[25/01/2014 14:04:55] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:55] [tableAction] Select Item: [role_id]
+[25/01/2014 14:04:55] [tableAction] Select Item: [varchar]
+[25/01/2014 14:04:55] [tableAction] Get Table Columns Successful.
+[25/01/2014 14:04:55] [tableAction] gen/src/DAO/UserRoleDAO.class.php
+[25/01/2014 14:04:55] [tableAction] gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php
+[25/01/2014 14:04:55] [tableAction] gen/src/vo/UserRole.class.php
+[25/01/2014 14:04:55] [tableAction] Create File [gen/src/DAO/UserRoleDAO.class.php] Success.
+[25/01/2014 14:04:55] [tableAction] Create File [gen/src/vo/UserRole.class.php] Success.
+[25/01/2014 14:04:55] [tableAction] Create File [gen/src/DAO/BaseDAO/UserRoleBaseDAO.class.php] Success.
+[25/01/2014 14:05:00] [tableAction] Database Connected.
+[25/01/2014 14:05:00] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'role'
+[25/01/2014 14:05:00] [tableAction] Statement Executed.
+[25/01/2014 14:05:00] [tableAction] Select Item: [role_id]
+[25/01/2014 14:05:00] [tableAction] Select Item: [varchar]
+[25/01/2014 14:05:00] [tableAction] Select Item: [role_name]
+[25/01/2014 14:05:00] [tableAction] Select Item: [varchar]
+[25/01/2014 14:05:00] [tableAction] Get Table Columns Successful.
+[25/01/2014 14:05:00] [tableAction] gen/src/DAO/RoleDAO.class.php
+[25/01/2014 14:05:00] [tableAction] gen/src/DAO/BaseDAO/RoleBaseDAO.class.php
+[25/01/2014 14:05:00] [tableAction] gen/src/vo/Role.class.php
+[25/01/2014 14:05:00] [tableAction] Create File [gen/src/DAO/RoleDAO.class.php] Success.
+[25/01/2014 14:05:00] [tableAction] Create File [gen/src/vo/Role.class.php] Success.
+[25/01/2014 14:05:00] [tableAction] Create File [gen/src/DAO/BaseDAO/RoleBaseDAO.class.php] Success.
+[23/05/2014 14:15:36] [tableAction] Database Connected.
+[23/05/2014 14:15:36] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news'
+[23/05/2014 14:15:36] [tableAction] Statement Executed.
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_id]
+[23/05/2014 14:15:36] [tableAction] Select Item: [int]
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_headline]
+[23/05/2014 14:15:36] [tableAction] Select Item: [varchar]
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_detail]
+[23/05/2014 14:15:36] [tableAction] Select Item: [varchar]
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_time_create]
+[23/05/2014 14:15:36] [tableAction] Select Item: [timestamp]
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_time_update]
+[23/05/2014 14:15:36] [tableAction] Select Item: [datetime]
+[23/05/2014 14:15:36] [tableAction] Select Item: [user_create]
+[23/05/2014 14:15:36] [tableAction] Select Item: [int]
+[23/05/2014 14:15:36] [tableAction] Select Item: [user_update]
+[23/05/2014 14:15:36] [tableAction] Select Item: [int]
+[23/05/2014 14:15:36] [tableAction] Database Connected.
+[23/05/2014 14:15:36] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news' AND `COLUMN_KEY` =  'PRI'
+[23/05/2014 14:15:36] [tableAction] Statement Executed.
+[23/05/2014 14:15:36] [tableAction] Select Item: [news_id]
+[23/05/2014 14:15:36] [tableAction] Select Item: [int]
+[23/05/2014 14:15:36] [tableAction] Get Table Columns Successful.
+[23/05/2014 14:15:36] [tableAction] gen/src/DAO/NewsDAO.class.php
+[23/05/2014 14:15:36] [tableAction] gen/src/DAO/BaseDAO/NewsBaseDAO.class.php
+[23/05/2014 14:15:36] [tableAction] gen/src/vo/News.class.php
+[23/05/2014 14:15:36] [tableAction] Create File [gen/src/DAO/NewsDAO.class.php] Success.
+[23/05/2014 14:15:36] [tableAction] Create File [gen/src/vo/News.class.php] Success.
+[23/05/2014 14:15:36] [tableAction] Create File [gen/src/DAO/BaseDAO/NewsBaseDAO.class.php] Success.
+[23/05/2014 14:38:13] [tableAction] Database Connected.
+[23/05/2014 14:38:13] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news'
+[23/05/2014 14:38:13] [tableAction] Statement Executed.
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_id]
+[23/05/2014 14:38:13] [tableAction] Select Item: [int]
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_headline]
+[23/05/2014 14:38:13] [tableAction] Select Item: [varchar]
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_detail]
+[23/05/2014 14:38:13] [tableAction] Select Item: [varchar]
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_time_create]
+[23/05/2014 14:38:13] [tableAction] Select Item: [timestamp]
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_time_update]
+[23/05/2014 14:38:13] [tableAction] Select Item: [datetime]
+[23/05/2014 14:38:13] [tableAction] Select Item: [user_create]
+[23/05/2014 14:38:13] [tableAction] Select Item: [int]
+[23/05/2014 14:38:13] [tableAction] Select Item: [user_update]
+[23/05/2014 14:38:13] [tableAction] Select Item: [int]
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_type_id]
+[23/05/2014 14:38:13] [tableAction] Select Item: [int]
+[23/05/2014 14:38:13] [tableAction] Database Connected.
+[23/05/2014 14:38:13] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news' AND `COLUMN_KEY` =  'PRI'
+[23/05/2014 14:38:13] [tableAction] Statement Executed.
+[23/05/2014 14:38:13] [tableAction] Select Item: [news_id]
+[23/05/2014 14:38:13] [tableAction] Select Item: [int]
+[23/05/2014 14:38:13] [tableAction] Get Table Columns Successful.
+[23/05/2014 14:38:13] [tableAction] gen/src/DAO/NewsDAO.class.php
+[23/05/2014 14:38:13] [tableAction] gen/src/DAO/BaseDAO/NewsBaseDAO.class.php
+[23/05/2014 14:38:13] [tableAction] gen/src/vo/News.class.php
+[23/05/2014 14:38:13] [tableAction] Create File [gen/src/DAO/NewsDAO.class.php] Success.
+[23/05/2014 14:38:13] [tableAction] Create File [gen/src/vo/News.class.php] Success.
+[23/05/2014 14:38:13] [tableAction] Create File [gen/src/DAO/BaseDAO/NewsBaseDAO.class.php] Success.
+[23/05/2014 14:38:20] [tableAction] Database Connected.
+[23/05/2014 14:38:20] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news_type'
+[23/05/2014 14:38:20] [tableAction] Statement Executed.
+[23/05/2014 14:38:20] [tableAction] Select Item: [news_type_id]
+[23/05/2014 14:38:20] [tableAction] Select Item: [int]
+[23/05/2014 14:38:20] [tableAction] Select Item: [news_type_name]
+[23/05/2014 14:38:20] [tableAction] Select Item: [varchar]
+[23/05/2014 14:38:20] [tableAction] Database Connected.
+[23/05/2014 14:38:20] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news_type' AND `COLUMN_KEY` =  'PRI'
+[23/05/2014 14:38:20] [tableAction] Statement Executed.
+[23/05/2014 14:38:20] [tableAction] Select Item: [news_type_id]
+[23/05/2014 14:38:20] [tableAction] Select Item: [int]
+[23/05/2014 14:38:20] [tableAction] Get Table Columns Successful.
+[23/05/2014 14:38:20] [tableAction] gen/src/DAO/NewsTypeDAO.class.php
+[23/05/2014 14:38:20] [tableAction] gen/src/DAO/BaseDAO/NewsTypeBaseDAO.class.php
+[23/05/2014 14:38:20] [tableAction] gen/src/vo/NewsType.class.php
+[23/05/2014 14:38:20] [tableAction] Create File [gen/src/DAO/NewsTypeDAO.class.php] Success.
+[23/05/2014 14:38:20] [tableAction] Create File [gen/src/vo/NewsType.class.php] Success.
+[23/05/2014 14:38:20] [tableAction] Create File [gen/src/DAO/BaseDAO/NewsTypeBaseDAO.class.php] Success.
+[23/05/2014 14:50:32] [tableAction] Database Connected.
+[23/05/2014 14:50:32] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news'
+[23/05/2014 14:50:32] [tableAction] Statement Executed.
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_id]
+[23/05/2014 14:50:32] [tableAction] Select Item: [int]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_headline]
+[23/05/2014 14:50:32] [tableAction] Select Item: [varchar]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_detail]
+[23/05/2014 14:50:32] [tableAction] Select Item: [varchar]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_time_create]
+[23/05/2014 14:50:32] [tableAction] Select Item: [timestamp]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_time_update]
+[23/05/2014 14:50:32] [tableAction] Select Item: [datetime]
+[23/05/2014 14:50:32] [tableAction] Select Item: [user_create]
+[23/05/2014 14:50:32] [tableAction] Select Item: [int]
+[23/05/2014 14:50:32] [tableAction] Select Item: [user_update]
+[23/05/2014 14:50:32] [tableAction] Select Item: [int]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_document]
+[23/05/2014 14:50:32] [tableAction] Select Item: [varchar]
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_type_id]
+[23/05/2014 14:50:32] [tableAction] Select Item: [int]
+[23/05/2014 14:50:32] [tableAction] Database Connected.
+[23/05/2014 14:50:32] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'news' AND `COLUMN_KEY` =  'PRI'
+[23/05/2014 14:50:32] [tableAction] Statement Executed.
+[23/05/2014 14:50:32] [tableAction] Select Item: [news_id]
+[23/05/2014 14:50:32] [tableAction] Select Item: [int]
+[23/05/2014 14:50:32] [tableAction] Get Table Columns Successful.
+[23/05/2014 14:50:32] [tableAction] gen/src/DAO/NewsDAO.class.php
+[23/05/2014 14:50:32] [tableAction] gen/src/DAO/BaseDAO/NewsBaseDAO.class.php
+[23/05/2014 14:50:32] [tableAction] gen/src/vo/News.class.php
+[23/05/2014 14:50:32] [tableAction] Create File [gen/src/DAO/NewsDAO.class.php] Success.
+[23/05/2014 14:50:32] [tableAction] Create File [gen/src/vo/News.class.php] Success.
+[23/05/2014 14:50:32] [tableAction] Create File [gen/src/DAO/BaseDAO/NewsBaseDAO.class.php] Success.
+[26/05/2014 17:19:50] [tableAction] Database Connected.
+[26/05/2014 17:19:50] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course_type'
+[26/05/2014 17:19:50] [tableAction] Statement Executed.
+[26/05/2014 17:19:50] [tableAction] Select Item: [course_type_id]
+[26/05/2014 17:19:50] [tableAction] Select Item: [int]
+[26/05/2014 17:19:50] [tableAction] Select Item: [course_type_name]
+[26/05/2014 17:19:50] [tableAction] Select Item: [varchar]
+[26/05/2014 17:19:50] [tableAction] Database Connected.
+[26/05/2014 17:19:50] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'course_type' AND `COLUMN_KEY` =  'PRI'
+[26/05/2014 17:19:50] [tableAction] Statement Executed.
+[26/05/2014 17:19:50] [tableAction] Select Item: [course_type_id]
+[26/05/2014 17:19:50] [tableAction] Select Item: [int]
+[26/05/2014 17:19:50] [tableAction] Get Table Columns Successful.
+[26/05/2014 17:19:50] [tableAction] gen/src/DAO/CourseTypeDAO.class.php
+[26/05/2014 17:19:50] [tableAction] gen/src/DAO/BaseDAO/CourseTypeBaseDAO.class.php
+[26/05/2014 17:19:50] [tableAction] gen/src/vo/CourseType.class.php
+[26/05/2014 17:19:50] [tableAction] Create File [gen/src/DAO/CourseTypeDAO.class.php] Success.
+[26/05/2014 17:19:50] [tableAction] Create File [gen/src/vo/CourseType.class.php] Success.
+[26/05/2014 17:19:50] [tableAction] Create File [gen/src/DAO/BaseDAO/CourseTypeBaseDAO.class.php] Success.
+[02/06/2014 15:01:07] [tableAction] Database Connected.
+[02/06/2014 15:01:07] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'plan'
+[02/06/2014 15:01:07] [tableAction] Statement Executed.
+[02/06/2014 15:01:07] [tableAction] Select Item: [plan_id]
+[02/06/2014 15:01:07] [tableAction] Select Item: [int]
+[02/06/2014 15:01:07] [tableAction] Select Item: [plan_name]
+[02/06/2014 15:01:07] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:07] [tableAction] Database Connected.
+[02/06/2014 15:01:07] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'plan' AND `COLUMN_KEY` =  'PRI'
+[02/06/2014 15:01:07] [tableAction] Statement Executed.
+[02/06/2014 15:01:07] [tableAction] Select Item: [plan_id]
+[02/06/2014 15:01:07] [tableAction] Select Item: [int]
+[02/06/2014 15:01:07] [tableAction] Get Table Columns Successful.
+[02/06/2014 15:01:07] [tableAction] gen/src/DAO/PlanDAO.class.php
+[02/06/2014 15:01:07] [tableAction] gen/src/DAO/BaseDAO/PlanBaseDAO.class.php
+[02/06/2014 15:01:07] [tableAction] gen/src/vo/Plan.class.php
+[02/06/2014 15:01:07] [tableAction] Create File [gen/src/DAO/PlanDAO.class.php] Success.
+[02/06/2014 15:01:07] [tableAction] Create File [gen/src/vo/Plan.class.php] Success.
+[02/06/2014 15:01:07] [tableAction] Create File [gen/src/DAO/BaseDAO/PlanBaseDAO.class.php] Success.
+[02/06/2014 15:01:11] [tableAction] Database Connected.
+[02/06/2014 15:01:11] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project'
+[02/06/2014 15:01:11] [tableAction] Statement Executed.
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_id]
+[02/06/2014 15:01:11] [tableAction] Select Item: [int]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_name]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_date]
+[02/06/2014 15:01:11] [tableAction] Select Item: [date]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_date_end]
+[02/06/2014 15:01:11] [tableAction] Select Item: [date]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_process]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_budget]
+[02/06/2014 15:01:11] [tableAction] Select Item: [double]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_final_budget]
+[02/06/2014 15:01:11] [tableAction] Select Item: [double]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_document_approve]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_document_charges]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_document_conclusion]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_document_image]
+[02/06/2014 15:01:11] [tableAction] Select Item: [varchar]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_time_create]
+[02/06/2014 15:01:11] [tableAction] Select Item: [timestamp]
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_time_update]
+[02/06/2014 15:01:11] [tableAction] Select Item: [datetime]
+[02/06/2014 15:01:11] [tableAction] Select Item: [plan_id]
+[02/06/2014 15:01:11] [tableAction] Select Item: [int]
+[02/06/2014 15:01:11] [tableAction] Select Item: [user_id]
+[02/06/2014 15:01:11] [tableAction] Select Item: [int]
+[02/06/2014 15:01:11] [tableAction] Database Connected.
+[02/06/2014 15:01:11] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project' AND `COLUMN_KEY` =  'PRI'
+[02/06/2014 15:01:11] [tableAction] Statement Executed.
+[02/06/2014 15:01:11] [tableAction] Select Item: [project_id]
+[02/06/2014 15:01:11] [tableAction] Select Item: [int]
+[02/06/2014 15:01:11] [tableAction] Get Table Columns Successful.
+[02/06/2014 15:01:11] [tableAction] gen/src/DAO/ProjectDAO.class.php
+[02/06/2014 15:01:11] [tableAction] gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php
+[02/06/2014 15:01:11] [tableAction] gen/src/vo/Project.class.php
+[02/06/2014 15:01:11] [tableAction] Create File [gen/src/DAO/ProjectDAO.class.php] Success.
+[02/06/2014 15:01:11] [tableAction] Create File [gen/src/vo/Project.class.php] Success.
+[02/06/2014 15:01:11] [tableAction] Create File [gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php] Success.
+[04/06/2014 19:16:53] [tableAction] Database Connected.
+[04/06/2014 19:16:53] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project'
+[04/06/2014 19:16:53] [tableAction] Statement Executed.
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_id]
+[04/06/2014 19:16:53] [tableAction] Select Item: [int]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_name]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_author]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_author2]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_author3]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_date]
+[04/06/2014 19:16:53] [tableAction] Select Item: [date]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_date_end]
+[04/06/2014 19:16:53] [tableAction] Select Item: [date]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_process]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_budget]
+[04/06/2014 19:16:53] [tableAction] Select Item: [double]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_final_budget]
+[04/06/2014 19:16:53] [tableAction] Select Item: [double]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_document_approve]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_document_charges]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_document_conclusion]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_document_image]
+[04/06/2014 19:16:53] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_time_create]
+[04/06/2014 19:16:53] [tableAction] Select Item: [timestamp]
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_time_update]
+[04/06/2014 19:16:53] [tableAction] Select Item: [datetime]
+[04/06/2014 19:16:53] [tableAction] Select Item: [plan_id]
+[04/06/2014 19:16:53] [tableAction] Select Item: [int]
+[04/06/2014 19:16:53] [tableAction] Select Item: [user_create]
+[04/06/2014 19:16:53] [tableAction] Select Item: [int]
+[04/06/2014 19:16:53] [tableAction] Select Item: [user_update]
+[04/06/2014 19:16:53] [tableAction] Select Item: [int]
+[04/06/2014 19:16:53] [tableAction] Database Connected.
+[04/06/2014 19:16:53] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project' AND `COLUMN_KEY` =  'PRI'
+[04/06/2014 19:16:53] [tableAction] Statement Executed.
+[04/06/2014 19:16:53] [tableAction] Select Item: [project_id]
+[04/06/2014 19:16:53] [tableAction] Select Item: [int]
+[04/06/2014 19:16:53] [tableAction] Get Table Columns Successful.
+[04/06/2014 19:16:53] [tableAction] gen/src/DAO/ProjectDAO.class.php
+[04/06/2014 19:16:53] [tableAction] gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php
+[04/06/2014 19:16:53] [tableAction] gen/src/vo/Project.class.php
+[04/06/2014 19:16:53] [tableAction] Create File [gen/src/DAO/ProjectDAO.class.php] Success.
+[04/06/2014 19:16:53] [tableAction] Create File [gen/src/vo/Project.class.php] Success.
+[04/06/2014 19:16:53] [tableAction] Create File [gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php] Success.
+[04/06/2014 19:16:57] [tableAction] Database Connected.
+[04/06/2014 19:16:57] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'plan'
+[04/06/2014 19:16:57] [tableAction] Statement Executed.
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_id]
+[04/06/2014 19:16:57] [tableAction] Select Item: [int]
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_name]
+[04/06/2014 19:16:57] [tableAction] Select Item: [varchar]
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_time_create]
+[04/06/2014 19:16:57] [tableAction] Select Item: [timestamp]
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_time_update]
+[04/06/2014 19:16:57] [tableAction] Select Item: [datetime]
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_user_create]
+[04/06/2014 19:16:57] [tableAction] Select Item: [int]
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_user_update]
+[04/06/2014 19:16:57] [tableAction] Select Item: [int]
+[04/06/2014 19:16:57] [tableAction] Database Connected.
+[04/06/2014 19:16:57] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'plan' AND `COLUMN_KEY` =  'PRI'
+[04/06/2014 19:16:57] [tableAction] Statement Executed.
+[04/06/2014 19:16:57] [tableAction] Select Item: [plan_id]
+[04/06/2014 19:16:57] [tableAction] Select Item: [int]
+[04/06/2014 19:16:57] [tableAction] Get Table Columns Successful.
+[04/06/2014 19:16:57] [tableAction] gen/src/DAO/PlanDAO.class.php
+[04/06/2014 19:16:57] [tableAction] gen/src/DAO/BaseDAO/PlanBaseDAO.class.php
+[04/06/2014 19:16:57] [tableAction] gen/src/vo/Plan.class.php
+[04/06/2014 19:16:57] [tableAction] Create File [gen/src/DAO/PlanDAO.class.php] Success.
+[04/06/2014 19:16:57] [tableAction] Create File [gen/src/vo/Plan.class.php] Success.
+[04/06/2014 19:16:57] [tableAction] Create File [gen/src/DAO/BaseDAO/PlanBaseDAO.class.php] Success.
+[04/06/2014 20:08:19] [tableAction] Database Connected.
+[04/06/2014 20:08:19] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project'
+[04/06/2014 20:08:19] [tableAction] Statement Executed.
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_id]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_name]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_author]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_author2]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_author3]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_author_amount]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_date]
+[04/06/2014 20:08:19] [tableAction] Select Item: [date]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_date_end]
+[04/06/2014 20:08:19] [tableAction] Select Item: [date]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_process]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_budget]
+[04/06/2014 20:08:19] [tableAction] Select Item: [double]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_final_budget]
+[04/06/2014 20:08:19] [tableAction] Select Item: [double]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_document_approve]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_document_charges]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_document_conclusion]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_document_image]
+[04/06/2014 20:08:19] [tableAction] Select Item: [varchar]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_time_create]
+[04/06/2014 20:08:19] [tableAction] Select Item: [timestamp]
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_time_update]
+[04/06/2014 20:08:19] [tableAction] Select Item: [datetime]
+[04/06/2014 20:08:19] [tableAction] Select Item: [plan_id]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [user_create]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Select Item: [user_update]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Database Connected.
+[04/06/2014 20:08:19] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project' AND `COLUMN_KEY` =  'PRI'
+[04/06/2014 20:08:19] [tableAction] Statement Executed.
+[04/06/2014 20:08:19] [tableAction] Select Item: [project_id]
+[04/06/2014 20:08:19] [tableAction] Select Item: [int]
+[04/06/2014 20:08:19] [tableAction] Get Table Columns Successful.
+[04/06/2014 20:08:19] [tableAction] gen/src/DAO/ProjectDAO.class.php
+[04/06/2014 20:08:19] [tableAction] gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php
+[04/06/2014 20:08:19] [tableAction] gen/src/vo/Project.class.php
+[04/06/2014 20:08:19] [tableAction] Create File [gen/src/DAO/ProjectDAO.class.php] Success.
+[04/06/2014 20:08:19] [tableAction] Create File [gen/src/vo/Project.class.php] Success.
+[04/06/2014 20:08:19] [tableAction] Create File [gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php] Success.
+[10/06/2014 17:36:00] [tableAction] Database Connected.
+[10/06/2014 17:36:00] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project'
+[10/06/2014 17:36:00] [tableAction] Statement Executed.
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_id]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_pre]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_name]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_author]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_author2]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_author3]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_author_amount]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_date]
+[10/06/2014 17:36:00] [tableAction] Select Item: [date]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_date_end]
+[10/06/2014 17:36:00] [tableAction] Select Item: [date]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_process]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_budget]
+[10/06/2014 17:36:00] [tableAction] Select Item: [double]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_final_budget]
+[10/06/2014 17:36:00] [tableAction] Select Item: [double]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_document_approve]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_document_charges]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_document_conclusion]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_document_image]
+[10/06/2014 17:36:00] [tableAction] Select Item: [varchar]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_time_create]
+[10/06/2014 17:36:00] [tableAction] Select Item: [timestamp]
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_time_update]
+[10/06/2014 17:36:00] [tableAction] Select Item: [datetime]
+[10/06/2014 17:36:00] [tableAction] Select Item: [plan_id]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [user_create]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Select Item: [user_update]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Database Connected.
+[10/06/2014 17:36:00] [tableAction] SELECT COLUMN_NAME,DATA_TYPE FROM INFORMATION_SCHEMA.COLUMNS WHERE `TABLE_SCHEMA`='qa_sci' AND `TABLE_NAME` = 'project' AND `COLUMN_KEY` =  'PRI'
+[10/06/2014 17:36:00] [tableAction] Statement Executed.
+[10/06/2014 17:36:00] [tableAction] Select Item: [project_id]
+[10/06/2014 17:36:00] [tableAction] Select Item: [int]
+[10/06/2014 17:36:00] [tableAction] Get Table Columns Successful.
+[10/06/2014 17:36:00] [tableAction] gen/src/DAO/ProjectDAO.class.php
+[10/06/2014 17:36:00] [tableAction] gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php
+[10/06/2014 17:36:00] [tableAction] gen/src/vo/Project.class.php
+[10/06/2014 17:36:00] [tableAction] Create File [gen/src/DAO/ProjectDAO.class.php] Success.
+[10/06/2014 17:36:00] [tableAction] Create File [gen/src/vo/Project.class.php] Success.
+[10/06/2014 17:36:00] [tableAction] Create File [gen/src/DAO/BaseDAO/ProjectBaseDAO.class.php] Success.
